@@ -4,69 +4,69 @@
 
 While you complete the 60-days module, jump in the [Projects Section](#20-html--css-projects).
 
-|                            Day                             |                                                  Topics                                                  | Video Explanation |
-| :--------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :---------------: |
-|          [00](#day-00-how-the-course-is-designed)          |                     [How The Course is Designed](#day-00-how-the-course-is-designed)                     |     Watch Now     |
-|                 [01](#day-01-introduction)                 |                                   [Introduction](#day-01-introduction)                                   |     Watch Now     |
-|     [02](#day-02-commonly-used-html-tags--their-usage)     |          [Commonly Used HTML Tags & Their Usage](#day-02-commonly-used-html-tags--their-usage)           |     Watch Now     |
-| [03](#day-03-html-entities-hyperlinks-images-audio-videos) | [HTML Entities, Hyperlinks, Images, Audio, Videos](#day-03-html-entities-hyperlinks-images-audio-videos) |     Watch Now     |
-|                             04                             |                                                                                                          |     Watch Now     |
-|                             05                             |                                                                                                          |     Watch Now     |
-|                             06                             |                                                                                                          |     Watch Now     |
-|                             07                             |                                                                                                          |     Watch Now     |
-|                             08                             |                                                                                                          |     Watch Now     |
-|                             09                             |                                                                                                          |     Watch Now     |
-|                             10                             |                                                                                                          |     Watch Now     |
-|        [11](#day-11-css-position-z-index-overflow)         |                 [CSS Position, Z-index, Overflow](#day-11-css-position-z-index-overflow)                 |     Watch Now     |
-|         [12](#day-12-css-float-display-alignment)          |                 [CSS Float, Display and Alignment](#day-12-css-float-display-alignment)                  |     Watch Now     |
-|                 [13](#day-13-css-flexbox)                  |                                    [CSS Flexbox](#day-13-css-flexbox)                                    |     Watch Now     |
-|                [14](#day-14-css-selectors)                 |                                  [CSS Selectors](#day-14-css-selectors)                                  |     Watch Now     |
-|                            [15]                            |                                       [CSS Text, Fonts and Icons]                                        |     Watch Now     |
-|       [16](#day-16-css-navigation-bar-and-dropdowns)       |               [CSS Navigation Bar and Dropdowns](#day-16-css-navigation-bar-and-dropdowns)               |     Watch Now     |
-|     [17](#day-17-css-image-gallery-and-image-sprites)      |            [CSS Image Gallery and Image Sprites](#day-17-css-image-gallery-and-image-sprites)            |     Watch Now     |
-|                             18                             |                                                                                                          |     Watch Now     |
-|    [19](#day-19-visualize-and-play-with-css-properties)    |         [Visualize and Play with CSS Properties](#day-19-visualize-and-play-with-css-properties)         |     Watch Now     |
-|               [20](#day-20-css-grid-layout)                |                                [CSS Grid Layout](#day-20-css-grid-layout)                                |     Watch Now     |
-|                 [21](#day-21-css-gradient)                 |                                  [CSS Gradients](#day-21-css-gradient)                                   |     Watch Now     |
-|           [22](#day-22-css-2d-and-3d-transforms)           |                       [CSS 2D and 3D Transforms](#day-22-css-2d-and-3d-transforms)                       |     Watch Now     |
-|                [23](#day-23-css-animations)                |                                 [CSS Animations](#day-23-css-animations)                                 |     Watch Now     |
-|                             24                             |                                                                                                          |     Watch Now     |
-|                             25                             |                                                                                                          |     Watch Now     |
-|                             26                             |                                                                                                          |     Watch Now     |
-|                             27                             |                                                                                                          |     Watch Now     |
-|                             28                             |                                                                                                          |     Watch Now     |
-|                             29                             |                                                                                                          |     Watch Now     |
-|                             30                             |                                                                                                          |     Watch Now     |
-|                             31                             |                                                                                                          |     Watch Now     |
-|                             32                             |                                                                                                          |     Watch Now     |
-|                             33                             |                                                                                                          |     Watch Now     |
-|                             34                             |                                                                                                          |     Watch Now     |
-|                             35                             |                                                                                                          |     Watch Now     |
-|                             36                             |                                                                                                          |     Watch Now     |
-|                             37                             |                                                                                                          |     Watch Now     |
-|                             38                             |                                                                                                          |     Watch Now     |
-|                             39                             |                                                                                                          |     Watch Now     |
-|                             40                             |                                                                                                          |     Watch Now     |
-|                             41                             |                                                                                                          |     Watch Now     |
-|                             42                             |                                                                                                          |     Watch Now     |
-|                             43                             |                                                                                                          |     Watch Now     |
-|                             44                             |                                                                                                          |     Watch Now     |
-|                             45                             |                                                                                                          |     Watch Now     |
-|                             46                             |                                                                                                          |     Watch Now     |
-|                             47                             |                                                                                                          |     Watch Now     |
-|                             48                             |                                                                                                          |     Watch Now     |
-|                             49                             |                                                                                                          |     Watch Now     |
-|                             50                             |                                                                                                          |     Watch Now     |
-|                             51                             |                                                                                                          |     Watch Now     |
-|                             52                             |                                                                                                          |     Watch Now     |
-|                             53                             |                                                                                                          |     Watch Now     |
-|                             54                             |                                                                                                          |     Watch Now     |
-|                             55                             |                                                                                                          |     Watch Now     |
-|                             56                             |                                                                                                          |     Watch Now     |
-|                             57                             |                                                                                                          |     Watch Now     |
-|                             58                             |                                                                                                          |     Watch Now     |
-|                             59                             |                                                                                                          |     Watch Now     |
-|                             60                             |                                                                                                          |     Watch Now     |
+|                            chapter                             |                                                    Topics                                                    | Video Explanation |
+| :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------: |
+|          [00](#chapter-00-how-the-course-is-designed)          |                     [How The Course is Designed](#chapter-00-how-the-course-is-designed)                     |     Watch Now     |
+|                 [01](#chapter-01-introduction)                 |                                   [Introduction](#chapter-01-introduction)                                   |     Watch Now     |
+|     [02](#chapter-02-commonly-used-html-tags--their-usage)     |          [Commonly Used HTML Tags & Their Usage](#chapter-02-commonly-used-html-tags--their-usage)           |     Watch Now     |
+| [03](#chapter-03-html-entities-hyperlinks-images-audio-videos) | [HTML Entities, Hyperlinks, Images, Audio, Videos](#chapter-03-html-entities-hyperlinks-images-audio-videos) |     Watch Now     |
+|                               04                               |                                                                                                              |     Watch Now     |
+|                               05                               |                                                                                                              |     Watch Now     |
+|                               06                               |                                                                                                              |     Watch Now     |
+|                               07                               |                                                                                                              |     Watch Now     |
+|                               08                               |                                                                                                              |     Watch Now     |
+|                               09                               |                                                                                                              |     Watch Now     |
+|                               10                               |                                                                                                              |     Watch Now     |
+|        [11](#chapter-11-css-position-z-index-overflow)         |                 [CSS Position, Z-index, Overflow](#chapter-11-css-position-z-index-overflow)                 |     Watch Now     |
+|         [12](#chapter-12-css-float-display-alignment)          |                 [CSS Float, Display and Alignment](#chapter-12-css-float-display-alignment)                  |     Watch Now     |
+|                 [13](#chapter-13-css-flexbox)                  |                                    [CSS Flexbox](#chapter-13-css-flexbox)                                    |     Watch Now     |
+|                [14](#chapter-14-css-selectors)                 |                                  [CSS Selectors](#chapter-14-css-selectors)                                  |     Watch Now     |
+|                              [15]                              |                                         [CSS Text, Fonts and Icons]                                          |     Watch Now     |
+|       [16](#chapter-16-css-navigation-bar-and-dropdowns)       |               [CSS Navigation Bar and Dropdowns](#chapter-16-css-navigation-bar-and-dropdowns)               |     Watch Now     |
+|     [17](#chapter-17-css-image-gallery-and-image-sprites)      |            [CSS Image Gallery and Image Sprites](#chapter-17-css-image-gallery-and-image-sprites)            |     Watch Now     |
+|                               18                               |                                                                                                              |     Watch Now     |
+|    [19](#chapter-19-visualize-and-play-with-css-properties)    |         [Visualize and Play with CSS Properties](#chapter-19-visualize-and-play-with-css-properties)         |     Watch Now     |
+|               [20](#chapter-20-css-grid-layout)                |                                [CSS Grid Layout](#chapter-20-css-grid-layout)                                |     Watch Now     |
+|                 [21](#chapter-21-css-gradient)                 |                                  [CSS Gradients](#chapter-21-css-gradient)                                   |     Watch Now     |
+|           [22](#chapter-22-css-2d-and-3d-transforms)           |                       [CSS 2D and 3D Transforms](#chapter-22-css-2d-and-3d-transforms)                       |     Watch Now     |
+|                [23](#chapter-23-css-animations)                |                                 [CSS Animations](#chapter-23-css-animations)                                 |     Watch Now     |
+|                               24                               |                                                                                                              |     Watch Now     |
+|                               25                               |                                                                                                              |     Watch Now     |
+|                               26                               |                                                                                                              |     Watch Now     |
+|                               27                               |                                                                                                              |     Watch Now     |
+|                               28                               |                                                                                                              |     Watch Now     |
+|                               29                               |                                                                                                              |     Watch Now     |
+|                               30                               |                                                                                                              |     Watch Now     |
+|                               31                               |                                                                                                              |     Watch Now     |
+|                               32                               |                                                                                                              |     Watch Now     |
+|                               33                               |                                                                                                              |     Watch Now     |
+|                               34                               |                                                                                                              |     Watch Now     |
+|                               35                               |                                                                                                              |     Watch Now     |
+|                               36                               |                                                                                                              |     Watch Now     |
+|                               37                               |                                                                                                              |     Watch Now     |
+|                               38                               |                                                                                                              |     Watch Now     |
+|                               39                               |                                                                                                              |     Watch Now     |
+|                               40                               |                                                                                                              |     Watch Now     |
+|                               41                               |                                                                                                              |     Watch Now     |
+|                               42                               |                                                                                                              |     Watch Now     |
+|                               43                               |                                                                                                              |     Watch Now     |
+|                               44                               |                                                                                                              |     Watch Now     |
+|                               45                               |                                                                                                              |     Watch Now     |
+|                               46                               |                                                                                                              |     Watch Now     |
+|                               47                               |                                                                                                              |     Watch Now     |
+|                               48                               |                                                                                                              |     Watch Now     |
+|                               49                               |                                                                                                              |     Watch Now     |
+|                               50                               |                                                                                                              |     Watch Now     |
+|                               51                               |                                                                                                              |     Watch Now     |
+|                               52                               |                                                                                                              |     Watch Now     |
+|                               53                               |                                                                                                              |     Watch Now     |
+|                               54                               |                                                                                                              |     Watch Now     |
+|                               55                               |                                                                                                              |     Watch Now     |
+|                               56                               |                                                                                                              |     Watch Now     |
+|                               57                               |                                                                                                              |     Watch Now     |
+|                               58                               |                                                                                                              |     Watch Now     |
+|                               59                               |                                                                                                              |     Watch Now     |
+|                               60                               |                                                                                                              |     Watch Now     |
 
 # 20 HTML & CSS Projects
 
@@ -93,12 +93,12 @@ While you complete the 60-days module, jump in the [Projects Section](#20-html--
 |                          19                          |                                                                                          |     Watch Now     |                           Live Demo                           |
 |                          20                          |                                                                                          |     Watch Now     |                           Live Demo                           |
 
-# Day-00: How The Course is Designed
+# chapter-00: How The Course is Designed
 
 ### কোর্সটি যেভাবে সাজানো হয়েছেঃ
 
 - কোর্সটি ৩০ দিনের মেয়াদে ভাগ করা হয়েছে। প্রত্যেকদিন HTML/CSS এর বিভিন্ন Topics নিয়ে আলোচনা করা হয়েছে।
-- প্রতিটা দিনের Module সাজানো হয়েছে ক্রমানুসারে । উদাহরণস্বরূপ, Day-05 এর টপিকসগুলো শিখতে হলে অবশ্যই আপনাকে Day-04 শেষ করে আসতে হবে। একইভাবে Day-04 শিখতে হলে আপনাকে Day-03 শেষ করে আসতে হবে ।
+- প্রতিটা দিনের Module সাজানো হয়েছে ক্রমানুসারে । উদাহরণস্বরূপ, chapter-05 এর টপিকসগুলো শিখতে হলে অবশ্যই আপনাকে chapter-04 শেষ করে আসতে হবে। একইভাবে chapter-04 শিখতে হলে আপনাকে chapter-03 শেষ করে আসতে হবে ।
 - প্রতিটা দিনের Topics এর Written Explanation/Article এর সাথে সাথে Video Explanation-ও দেয়া আছে। যাতে শিক্ষার্থীরা খুব সহজেই টপিকসগুলো আত্মস্থ করতে পারে।
 
 ### কোর্সটি কাদের জন্য?
@@ -110,7 +110,7 @@ While you complete the 60-days module, jump in the [Projects Section](#20-html--
 
 - HTML সম্পর্কে অল্প ধারনা থাকলে ভালো, না থাকলেও সমস্যা নেই।
 
-# Day-01: Introduction
+# chapter-01: Introduction
 
 - [What is HTML?](#what-is-html)
 - [HTML Basics](#html-basics)
@@ -174,7 +174,7 @@ Here we go:
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60)
 
-# Day-02: Commonly Used HTML Tags & Their Usage
+# chapter-02: Commonly Used HTML Tags & Their Usage
 
 - [&lt;em&gt;](#em)
 - [&lt;i&gt; vs &lt;em&gt;](#i-vs-em)
@@ -276,7 +276,7 @@ While `<em>` is used to change the meaning of a sentence as spoken emphasis does
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-03: HTML Entities, Hyperlinks, Images, Audio, Videos
+# chapter-03: HTML Entities, Hyperlinks, Images, Audio, Videos
 
 - [HTML Entities](#html-entities)
 - [Hyperlinks](#hyperlinks)
@@ -359,7 +359,7 @@ An absolute URL will always point to the same location, no matter where it's use
 **Relative URL:**
 Points to a location that is _relative_ to the file you are linking from, more like what we looked at in the previous section. For example, if we wanted to link from our example file at `https://www.example.com/projects/index.html` to a PDF file in the same directory, the URL would just be the filename — `project-brief.pdf` — no extra information needed. If the PDF was available in a subdirectory inside `projects` called `pdfs`, the relative link would be `pdfs/project-brief.pdf`(the equivalent absolute URL would be `https://www.example.com/projects/pdfs/project-brief.pdf`)
 
-View the [SOURCE CODE](/day-03-html-entities-links-images-audio-videos/hyperlinks.html) here.
+View the [SOURCE CODE](/chapter-03-html-entities-links-images-audio-videos/hyperlinks.html) here.
 
 #### A Real Example of Absolute and Relative URL
 
@@ -466,7 +466,7 @@ Click to view the [Source Code](hyperlinks.html) which demonstrates all the exam
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-11: CSS Position, Z-index, Overflow
+# chapter-11: CSS Position, Z-index, Overflow
 
 - [CSS Position](#css-position)
   - [Position Property Values](#position-property-values)
@@ -567,7 +567,7 @@ The element is positioned relative to its normal position, so "left:20px" adds 2
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-12: CSS Float, Display, Alignment
+# chapter-12: CSS Float, Display, Alignment
 
 - [CSS Float](#css-float-property)
   - [CSS Float Property](#css-float-property)
@@ -603,7 +603,7 @@ The simplest use of `float` property is to to wrap text around images.
 
 ### Example of CSS Float Property (Screenshot)
 
-![float example](./day-12-css-float-display-align/images/1.png)
+![float example](./chapter-12-css-float-display-align/images/1.png)
 
 ### Example of CSS Float Property (Source Codes)
 
@@ -676,7 +676,7 @@ The following example shows the different behavior of `display: inline`, `displa
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-13: CSS Flexbox
+# chapter-13: CSS Flexbox
 
 - [CSS Flexbox](#css-flexbox)
   - [CSS Flexbox Layout Module](#css-flexbox-layout-module)
@@ -713,7 +713,7 @@ Before the Flexbox Layout module, there were four layout modes:
 
 নিচে একটি Flex Container তৈরি করে দেখানো হলোঃ
 
-![Flex Container](./day-13-css-flexbox/images/flex-container.png)
+![Flex Container](./chapter-13-css-flexbox/images/flex-container.png)
 
 এখানে Flex Container হলো Blue Area Element. এবং তিনটি Flex Items হলো 1, 2 এবং 3.
 
@@ -753,11 +753,11 @@ Example: [Open in CodePen](https://codepen.io/travelerabdulalim/pen/xxjZLrx)
 - The `justify-content: space-around;` flex items গুলোর শুরু ও শেষে সমান Space নিয়ে তাদের Horizontally মাঝখানে রাখে ।
 - The `justify-content: space-between;` flex items গুলোর শুধু মাঝে সমান Space নিয়ে তাদের Horizontally মাঝখানে রাখে ।
 
-![center](./day-13-css-flexbox/images/center.png)
-![flex start](./day-13-css-flexbox/images/flex-start.png)
-![flex end](./day-13-css-flexbox/images/flex-end.png)
-![space around](./day-13-css-flexbox/images/space-around.png)
-![space between](./day-13-css-flexbox/images/space-between.png)
+![center](./chapter-13-css-flexbox/images/center.png)
+![flex start](./chapter-13-css-flexbox/images/flex-start.png)
+![flex end](./chapter-13-css-flexbox/images/flex-end.png)
+![space around](./chapter-13-css-flexbox/images/space-around.png)
+![space between](./chapter-13-css-flexbox/images/space-between.png)
 
 ### JUSTIFY CONTENT Property in Flex Example
 
@@ -773,10 +773,10 @@ The align-items property is used to align the flex items.
 - `align-items: stretch;` stretches the flex items to fill the container (this is default).
 - `align-items: baseline;` aligns the flex items such as their baselines aligns.
 
-![align-items: center](./day-13-css-flexbox/images/align-center.png)
-![align-items: flex start](./day-13-css-flexbox/images/align-flex-start.png)
-![align-items: flex end](./day-13-css-flexbox/images/align-flex-end.png)
-![align-items: baseline](./day-13-css-flexbox/images/align-baseline.png)
+![align-items: center](./chapter-13-css-flexbox/images/align-center.png)
+![align-items: flex start](./chapter-13-css-flexbox/images/align-flex-start.png)
+![align-items: flex end](./chapter-13-css-flexbox/images/align-flex-end.png)
+![align-items: baseline](./chapter-13-css-flexbox/images/align-baseline.png)
 
 ### ALIGN ITEMS Property in Flex Example
 
@@ -796,9 +796,9 @@ The align-items property is used to align the flex items.
 
 ### Align Content vs Align Items Example
 
-![align-content](./day-13-css-flexbox/images/align-content.png)
+![align-content](./chapter-13-css-flexbox/images/align-content.png)
 
-![align-items](./day-13-css-flexbox/images/align-items.png)
+![align-items](./chapter-13-css-flexbox/images/align-items.png)
 
 ### কিছু গুরুত্বপূর্ণ Flex Items Property
 
@@ -829,7 +829,7 @@ The align-items property is used to align the flex items.
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-14: CSS Selectors
+# chapter-14: CSS Selectors
 
 - [CSS Selectors](#css-selectors)
   - [What is CSS Selectors](#what-is-css-selectors)
@@ -1152,7 +1152,7 @@ p:first-child i {
 
 Screenshot:
 
-![1](./day-14-css-selectors/images/1.png)
+![1](./chapter-14-css-selectors/images/1.png)
 
 Example Codes:
 
@@ -1235,7 +1235,7 @@ Example:
 
 #### Screenshot
 
-![target](./day-14-css-selectors/images/2.png)
+![target](./chapter-14-css-selectors/images/2.png)
 
 [Open Example Project in CodePend](https://codepen.io/travelerabdulalim/pen/qBYXBMz)
 
@@ -1270,7 +1270,7 @@ input:checked {
 
 Screenshot:
 
-![checked](./day-14-css-selectors/images/3.png)
+![checked](./chapter-14-css-selectors/images/3.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/ZEoJYXN)
 
@@ -1306,7 +1306,7 @@ input[type="text"]:disabled {
 
 Screenshot:
 
-![enabled](./day-14-css-selectors/images/4.png)
+![enabled](./chapter-14-css-selectors/images/4.png)
 
 [Open in Codepen](https://codepen.io/travelerabdulalim/pen/qBYXdWm)
 
@@ -1333,7 +1333,7 @@ input:focus {
 
 Screenshot:
 
-![focus](./day-14-css-selectors/images/5.png)
+![focus](./chapter-14-css-selectors/images/5.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/NWMvNyK)
 
@@ -1361,7 +1361,7 @@ input:out-of-range {
 
 Screenshot:
 
-![in-range](./day-14-css-selectors/images/6.png)
+![in-range](./chapter-14-css-selectors/images/6.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/jOxLqdq)
 
@@ -1387,7 +1387,7 @@ input:invalid {
 
 Screenshot:
 
-![valid](./day-14-css-selectors/images/7.png)
+![valid](./chapter-14-css-selectors/images/7.png)
 
 [Open in Codepen](https://codepen.io/travelerabdulalim/pen/abGyEyb)
 
@@ -1414,7 +1414,7 @@ input:optional {
 
 Screenshot:
 
-![optional](./day-14-css-selectors/images/8.png)
+![optional](./chapter-14-css-selectors/images/8.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/bGMrajK)
 
@@ -1445,7 +1445,7 @@ input:read-write {
 
 Screenshot:
 
-![read-only](./day-14-css-selectors/images/9.png)
+![read-only](./chapter-14-css-selectors/images/9.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/MWGvQgg)
 
@@ -1470,7 +1470,7 @@ p:empty {
 
 Screenshot:
 
-![empty](./day-14-css-selectors/images/10.png)
+![empty](./chapter-14-css-selectors/images/10.png)
 
 [Open in CodPen](https://codepen.io/travelerabdulalim/pen/yLjoveB)
 
@@ -1505,7 +1505,7 @@ p:last-child {
 
 Screenshot:
 
-![first and last child](./day-14-css-selectors/images/11.png)
+![first and last child](./chapter-14-css-selectors/images/11.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/yLjovoN)
 
@@ -1542,7 +1542,7 @@ p:last-of-type {
 
 Screenshot:
 
-![first-of-type](./day-14-css-selectors/images/12.png)
+![first-of-type](./chapter-14-css-selectors/images/12.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/xxjLYyP)
 
@@ -1573,7 +1573,7 @@ p {
 
 Screenshot:
 
-![not](./day-14-css-selectors/images/13.png)
+![not](./chapter-14-css-selectors/images/13.png)
 
 #### :nth-child() Pseudo-class
 
@@ -1605,7 +1605,7 @@ p:nth-child(2) {
 
 Screenshot:
 
-![nth](./day-14-css-selectors/images/14.png)
+![nth](./chapter-14-css-selectors/images/14.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/abGyYdG)
 
@@ -1639,7 +1639,7 @@ p:nth-last-child(2) {
 
 Screenshot:
 
-![nth-last](./day-14-css-selectors/images/15.png)
+![nth-last](./chapter-14-css-selectors/images/15.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/rNvzdMp)
 
@@ -1688,7 +1688,7 @@ li:nth-of-type(2) {
 
 Screenshot:
 
-![nth-of-type](./day-14-css-selectors/images/16.png)
+![nth-of-type](./chapter-14-css-selectors/images/16.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/wvjqmQg)
 
@@ -1723,7 +1723,7 @@ p:only-of-type {
 
 Screenshot:
 
-![only-of-type](./day-14-css-selectors/images/17.png)
+![only-of-type](./chapter-14-css-selectors/images/17.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/XWqaqdG)
 
@@ -1754,7 +1754,7 @@ p:only-child {
 
 Screenshot:
 
-![only-child](./day-14-css-selectors/images/18.png)
+![only-child](./chapter-14-css-selectors/images/18.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/LYmjmyp)
 
@@ -1803,7 +1803,7 @@ p::selection {
 
 #### Screenshot
 
-![pseudo-elements](./day-14-css-selectors/images/19.png)
+![pseudo-elements](./chapter-14-css-selectors/images/19.png)
 
 #### Source Codes
 
@@ -1837,7 +1837,7 @@ Example:
 
 Screenshot:
 
-![marker](./day-14-css-selectors/images/20.png)
+![marker](./chapter-14-css-selectors/images/20.png)
 
 [Open in Codepen](https://codepen.io/travelerabdulalim/pen/abGyGXd)
 
@@ -1865,14 +1865,14 @@ Note: This table has some type because of vs-code extensions, plz visit https://
   >
   <a href="http://google.com">Google</a>
   <img
-    src="/day-14-css-selectors/images/Abdul Alim.jpg"
+    src="/chapter-14-css-selectors/images/Abdul Alim.jpg"
     title="Abdul Alim at Coxs Bazar"
     alt="Abdul Alim"
     width="300px"
     height="300px"
   />
   <img
-    src="/day-14-css-selectors/images/abdul alim 4.jpg"
+    src="/chapter-14-css-selectors/images/abdul alim 4.jpg"
     title=" at Dhaka"
     alt="New Abdul Alim"
     width="300px"
@@ -1909,7 +1909,7 @@ a[href*="google"] {
 
 #### Screenshot
 
-![attr](./day-14-css-selectors/images/21.png)
+![attr](./chapter-14-css-selectors/images/21.png)
 
 #### Open in Codepen
 
@@ -1917,9 +1917,9 @@ a[href*="google"] {
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-15: CSS Text, Fonts & Icons
+# chapter-15: CSS Text, Fonts & Icons
 
-# Day-16: CSS Navigation Bar and Dropdowns
+# chapter-16: CSS Navigation Bar and Dropdowns
 
 - [Introduction to CSS Navbar](#introduction-to-css-navbar)
 - [Simple Project to Create a Vertical Navbar](#simple-project-to-create-a-vertical-navbar)
@@ -1943,7 +1943,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 ### Project Screenshot
 
-![vertical Navbar](./day-16-css-navigation-bar-and-dropdowns/images/1.png)
+![vertical Navbar](./chapter-16-css-navigation-bar-and-dropdowns/images/1.png)
 
 ### Vertical Navbar Live Project
 
@@ -1953,7 +1953,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 ### Project Screenshot
 
-![Horizontal Navbar](./day-16-css-navigation-bar-and-dropdowns/images/2.png)
+![Horizontal Navbar](./chapter-16-css-navigation-bar-and-dropdowns/images/2.png)
 
 ### Horizontal Navbar Live Project
 
@@ -1963,7 +1963,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 ### Project Screenshot
 
-![dropdown](./day-16-css-navigation-bar-and-dropdowns/images/3.png)
+![dropdown](./chapter-16-css-navigation-bar-and-dropdowns/images/3.png)
 
 ### Open Source Codes in CodePen
 
@@ -1971,7 +1971,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-17: CSS Image Gallery and Image Sprites
+# chapter-17: CSS Image Gallery and Image Sprites
 
 - [CSS Image Gallery: A Responsive Image Gallery Project](#css-image-gallery-a-responsive-image-gallery-project)
   - [What We learn While Building This Project](#what-we-learn-while-building-this-project)
@@ -1990,7 +1990,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 ### Project Screenshot
 
-# Day-18: Website Layout
+# chapter-18: Website Layout
 
 - [How to Create A Website Layout](#how-to-create-a-website-layout)
 
@@ -1999,7 +1999,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 - একটা Website Layout তৈরি করতে যে বিষয়টা খেয়াল করতে হবে তা হলো, প্রথমে Website কে উপর থেকে নিচ বরাবর (Row) কয়টা ভাগে ভাগ করা যায়, এরপর দেখতে হবে ঐ প্রতিটা ভাগে আবার উপর থেকে নিচ (row) বা বাম থেকে ডান (column) বরাবর কয়টা ভাগে ভাগ করা যায়। তারপর আবার সেই Sub-section কে আবার প্রথমে দেখতে হবে উপর থেকে নিচ বরাবর ভাগ করা যায় কিনা, যদি না যায়, তাহলে বাম থেকে ডান বরাবর ভাগ করতে হবে, এইভাবে চলতে থাকবে যতক্ষণ পর্যন্ত পুরো Website ভাগ না করা হয়। এভাবে একটি Website এর Layout তৈরি করা হয়।
   Video তে বিষয়টি আরও ভালোভাবে বর্ণনা করা আছে।
 
-# Day-19: Visualize and Play with CSS Properties
+# chapter-19: Visualize and Play with CSS Properties
 
 Very Very helpful link to visualize, practice and play with css properties.
 Link: https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_grid-template
@@ -2009,7 +2009,7 @@ Note: Practice the properties as more as you can!
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-20: CSS Grid Layout
+# chapter-20: CSS Grid Layout
 
 - [A Sample Example of CSS Grid Layout Module](#a-sample-example-of-css-grid-layout-module)
 - [Basic Concept And Benefits of CSS Grid Layout](#basic-concept-and-benefits-of-css-grid-layout)
@@ -2022,7 +2022,7 @@ Note: Practice the properties as more as you can!
 
 ### A Sample Example of CSS Grid Layout Module
 
-![CSS Grid Layout Module](./day-20-css-grid-layout/images/css-grid-layout.png)
+![CSS Grid Layout Module](./chapter-20-css-grid-layout/images/css-grid-layout.png)
 
 ### Basic Concept And Benefits of CSS Grid Layout
 
@@ -2078,7 +2078,7 @@ Credit: W3Schools
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-21: CSS Gradient
+# chapter-21: CSS Gradient
 
 - [CSS Gradients Introduction](#css-gradients-introduction)
   - [Basic Concepts of CSS Gradients](#basic-concepts-of-css-gradients)
@@ -2157,7 +2157,7 @@ Example: `background-image: linear-gradients(red, yellow);` . This linear gradie
 
 Output Screenshot:
 
-![Top to Bottom](./day-21-css-gradients/images/to-to-bottom.png)
+![Top to Bottom](./chapter-21-css-gradients/images/to-to-bottom.png)
 
 ### Direction - Left to Right
 
@@ -2166,7 +2166,7 @@ The following example shows a linear gradient that starts from the left. It star
 
 Output Screenshot:
 
-![Left to Right](./day-21-css-gradients/images/left-to-right.png)
+![Left to Right](./chapter-21-css-gradients/images/left-to-right.png)
 
 ### Direction - Top Left to Bottom Right
 
@@ -2175,7 +2175,7 @@ The following example shows a linear gradient that starts at top left (and goes 
 
 Output Screenshot:
 
-![Topleft to Bottomright](./day-21-css-gradients/images/topleft-to-bottomright.png)
+![Topleft to Bottomright](./chapter-21-css-gradients/images/topleft-to-bottomright.png)
 
 ### Direction - 180deg
 
@@ -2184,7 +2184,7 @@ Example: `background-image: linear-gradient(180deg, red, yellow);`
 
 Output Screenshot:
 
-![180deg](./day-21-css-gradients/images/180deg.png)
+![180deg](./chapter-21-css-gradients/images/180deg.png)
 
 ### Direction - 90deg
 
@@ -2192,7 +2192,7 @@ Example: `background-image: linear-gradient(90deg, red, yellow);`
 
 Output Screenshot:
 
-![](./day-21-css-gradients/images/90deg.png)
+![](./chapter-21-css-gradients/images/90deg.png)
 
 ### Direction - 0% x% 100%
 
@@ -2200,7 +2200,7 @@ Example: `background-image: linear-gradient(#feffff 0%, #ddf1f9 35%, #a0d8ef 100
 
 Output Screenshot:
 
-![Percentage 1](./day-21-css-gradients/images/percentage1.png)
+![Percentage 1](./chapter-21-css-gradients/images/percentage1.png)
 
 ### Direction - 20% 70%
 
@@ -2208,7 +2208,7 @@ Output Screenshot:
 
 Output Screenshot:
 
-![Percentage 1](./day-21-css-gradients/images/percentage2.png)
+![Percentage 1](./chapter-21-css-gradients/images/percentage2.png)
 
 ### Direction - 50% 50%
 
@@ -2218,7 +2218,7 @@ Example: `background-image: linear-gradient(to top right, red 50%, yellow 50%);`
 
 Output Screenshot:
 
-![Percentage 3](./day-21-css-gradients/images/percentage3.png)
+![Percentage 3](./chapter-21-css-gradients/images/percentage3.png)
 
 ### Direction - 20% 20%-80% 80%
 
@@ -2232,7 +2232,7 @@ Example: `background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,
 
 Output Screenshot:
 
-![Transparency](./day-21-css-gradients/images/transparency.png)
+![Transparency](./chapter-21-css-gradients/images/transparency.png)
 
 ### Repeating a linear-gradient
 
@@ -2240,7 +2240,7 @@ Example: `background-image: repeating-linear-gradient(red, yellow 10%, green 20%
 
 Output Screenshot:
 
-![Repeating linear gradient](./day-21-css-gradients/images/repeating.png)
+![Repeating linear gradient](./chapter-21-css-gradients/images/repeating.png)
 
 ### Linear Gradient Source Codes
 
@@ -2265,7 +2265,7 @@ background-image: radial-gradient(red, yellow, green);
 
 Screenshot:
 
-![By default Radial Gradient](./day-21-css-gradients/images/by-deafult.png)
+![By default Radial Gradient](./chapter-21-css-gradients/images/by-deafult.png)
 
 ### Circle Shaped Example of Radial Gradients
 
@@ -2275,7 +2275,7 @@ background-image: radial-gradient(circle, red, yellow, green);
 
 Screenshot:
 
-![circle shape](./day-21-css-gradients/images/circle.png)
+![circle shape](./chapter-21-css-gradients/images/circle.png)
 
 ### Providing The % To Tell Where The Color Should Transition
 
@@ -2292,7 +2292,7 @@ background-image: radial-gradient(red 5%, yellow 15%, green 60%);
 
 Screenshot:
 
-![Percentage Again](./day-21-css-gradients/images/percentage-again.png)
+![Percentage Again](./chapter-21-css-gradients/images/percentage-again.png)
 
 ### Bangladesh Flag Using Radial Gradients
 
@@ -2302,7 +2302,7 @@ background-image: radial-gradient(circle, red 30%, green 30%);
 
 Screenshot:
 
-![Bangladesh Flag](./day-21-css-gradients/images/bangladesh-flag.png)
+![Bangladesh Flag](./chapter-21-css-gradients/images/bangladesh-flag.png)
 
 ### Position of Radial Gradients
 
@@ -2316,7 +2316,7 @@ background-image: radial-gradient(at top center, red, yellow, green);
 
 Screenshot:
 
-![Top Center](./day-21-css-gradients/images/top-center.png)
+![Top Center](./chapter-21-css-gradients/images/top-center.png)
 
 Example: (Right Bottom)
 
@@ -2326,7 +2326,7 @@ background-image: radial-gradient(at right bottom, red, yellow, green);
 
 Screenshot:
 
-![right bottom](./day-21-css-gradients/images/right-bottom.png)
+![right bottom](./chapter-21-css-gradients/images/right-bottom.png)
 
 ### Position at X% Y%
 
@@ -2341,7 +2341,7 @@ background-image: radial-gradient(at 30% 40%, red, yellow, green);
 
 Screenshot:
 
-![thirty](./day-21-css-gradients/images/thirty.png)
+![thirty](./chapter-21-css-gradients/images/thirty.png)
 
 ### Position at Closest Side
 
@@ -2355,7 +2355,7 @@ background-image: radial-gradient(closest-side at 30% 40%, red, yellow, green);
 
 Screenshot:
 
-![closest side](./day-21-css-gradients/images/closest.png)
+![closest side](./chapter-21-css-gradients/images/closest.png)
 
 ### Position at Farthest Side
 
@@ -2369,7 +2369,7 @@ background-image: radial-gradient(farthest-side at 30% 40%, red, yellow, green);
 
 Screenshot:
 
-![Farthest Side](./day-21-css-gradients/images/farthest-side.png)
+![Farthest Side](./chapter-21-css-gradients/images/farthest-side.png)
 
 ### Position at Closest Corner
 
@@ -2388,7 +2388,7 @@ background-image: radial-gradient(
 
 Screenshot:
 
-![Closest Corner](./day-21-css-gradients/images/closest-corner.png)
+![Closest Corner](./chapter-21-css-gradients/images/closest-corner.png)
 
 ### Repeating a radial-gradient
 
@@ -2402,7 +2402,7 @@ background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
 
 Screenshot:
 
-![Repeating Radial](./day-21-css-gradients/images/r-radial-gradients.png)
+![Repeating Radial](./chapter-21-css-gradients/images/r-radial-gradients.png)
 
 ### Transparent Radial Gradient
 
@@ -2414,7 +2414,7 @@ background-image: radial-gradient(rgba(255, 0, 0, 1), rgba(255, 0, 0, 0));
 
 Screenshot:
 
-![Transparent Radial](./day-21-css-gradients/images/transparent-radial.png)
+![Transparent Radial](./chapter-21-css-gradients/images/transparent-radial.png)
 
 ### Using Multiple Radiant Gradients
 
@@ -2432,7 +2432,7 @@ background-image: radial-gradient(
 
 Screenshot:
 
-![Using Multiple Radiant Gradients](./day-21-css-gradients/images/using-multiple.png)
+![Using Multiple Radiant Gradients](./chapter-21-css-gradients/images/using-multiple.png)
 
 ### Multiple Radial Gradients with Border Radius 50%
 
@@ -2453,7 +2453,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![With Border Radius](./day-21-css-gradients/images/withborder.png)
+![With Border Radius](./chapter-21-css-gradients/images/withborder.png)
 
 ### Radial Gradients Source Codes of All Examples
 
@@ -2488,7 +2488,7 @@ background-image: conic-gradient(red, yellow, green);
 
 Screenshot:
 
-![Conic With Three Colors](./day-21-css-gradients/img-conic/conic-with-three-colors.png)
+![Conic With Three Colors](./chapter-21-css-gradients/img-conic/conic-with-three-colors.png)
 
 আমরা চাইলে এখানে `border-radius: 50%;` set করে একে চতুর্ভুজ থেকে বৃত্ত আকৃতি নিয়ে আসতে পারি।
 
@@ -2501,7 +2501,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![With Border Radius](./day-21-css-gradients/img-conic/border.png)
+![With Border Radius](./chapter-21-css-gradients/img-conic/border.png)
 
 কিন্তু এখানে একটা বিষয় লক্ষণীয়, উপরের দিকে Solid Red and Solid Green একসাথে মিশে যাবার কারনে তা স্পষ্ট বুঝা যাচ্ছে, যেহেতু তারা ভিন্ন Color. তাই আমরা যদি প্রথম ও শেষ Color একই দেই, তাহলে সুন্দর একটা Conic Radient তৈরি হবে, এবং দুই Color এর মাঝে যে স্পষ্ট লাইন সেটা আর Visible হবে না।
 
@@ -2514,7 +2514,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![beautiful shape](./day-21-css-gradients/img-conic/3.png)
+![beautiful shape](./chapter-21-css-gradients/img-conic/3.png)
 
 ### Starting Position of Conic Gradient
 
@@ -2529,7 +2529,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![starting position](./day-21-css-gradients/img-conic/4.png)
+![starting position](./chapter-21-css-gradients/img-conic/4.png)
 
 ### Changing the Center
 
@@ -2544,7 +2544,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![Chaning the Center](./day-21-css-gradients/img-conic/5.png)
+![Chaning the Center](./chapter-21-css-gradients/img-conic/5.png)
 
 ### Changing Both: Starting Position and Center
 
@@ -2559,7 +2559,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![Both Change](./day-21-css-gradients/img-conic/6.png)
+![Both Change](./chapter-21-css-gradients/img-conic/6.png)
 
 ### Using Color Stops Xdeg, Ydeg, Zdeg
 
@@ -2575,7 +2575,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![Using Color Stops](./day-21-css-gradients/img-conic/7.png)
+![Using Color Stops](./chapter-21-css-gradients/img-conic/7.png)
 
 ### Creating A Beautiful Pie Chart
 
@@ -2599,7 +2599,7 @@ border-radius: 50%;
 
 Screenshot:
 
-![Pie Chart](./day-21-css-gradients/img-conic/8.png)
+![Pie Chart](./chapter-21-css-gradients/img-conic/8.png)
 
 ### Beautiful Design with 'Background-Size' Property
 
@@ -2622,7 +2622,7 @@ background-size: 20px 20px;
 
 Screenshot:
 
-![Beautiful](./day-21-css-gradients/img-conic/9.png)
+![Beautiful](./chapter-21-css-gradients/img-conic/9.png)
 
 ### Repeating Conic Gradient
 
@@ -2637,11 +2637,11 @@ border-radius: 50%;
 
 Screenshot:
 
-![Repeating Conic](./day-21-css-gradients/img-conic/10.png)
+![Repeating Conic](./chapter-21-css-gradients/img-conic/10.png)
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-22: CSS 2D and 3D Transforms
+# chapter-22: CSS 2D and 3D Transforms
 
 - [Introduction To CSS 2D Transforms](#introduction-to-css-2d-transforms)
 - [2D Transforms Methods At A Glance](#2d-transforms-methods-at-a-glance)
@@ -2674,19 +2674,19 @@ Screenshot:
 
 ## 2D Transforms Screenshots
 
-![2d1](./day-22-css-2d-and-3d-transforms/images/1.png)
+![2d1](./chapter-22-css-2d-and-3d-transforms/images/1.png)
 
-![2d2](./day-22-css-2d-and-3d-transforms/images/2.png)
+![2d2](./chapter-22-css-2d-and-3d-transforms/images/2.png)
 
-![2d3](./day-22-css-2d-and-3d-transforms/images/3.png)
+![2d3](./chapter-22-css-2d-and-3d-transforms/images/3.png)
 
-![2d4](./day-22-css-2d-and-3d-transforms/images/4.png)
+![2d4](./chapter-22-css-2d-and-3d-transforms/images/4.png)
 
-![2d5](./day-22-css-2d-and-3d-transforms/images/5.png)
+![2d5](./chapter-22-css-2d-and-3d-transforms/images/5.png)
 
-![2d6](./day-22-css-2d-and-3d-transforms/images/6.png)
+![2d6](./chapter-22-css-2d-and-3d-transforms/images/6.png)
 
-![2d7](./day-22-css-2d-and-3d-transforms/images/7.png)
+![2d7](./chapter-22-css-2d-and-3d-transforms/images/7.png)
 
 ## Open 2D Transforms Source Codes in CodePen
 
@@ -2704,7 +2704,7 @@ Screenshot:
 
 Screenshot:
 
-![2d8](./day-22-css-2d-and-3d-transforms/images/8.png)
+![2d8](./chapter-22-css-2d-and-3d-transforms/images/8.png)
 
 ### RotateY()
 
@@ -2712,7 +2712,7 @@ Screenshot:
 
 Screenshot:
 
-![2d9](./day-22-css-2d-and-3d-transforms/images/9.png)
+![2d9](./chapter-22-css-2d-and-3d-transforms/images/9.png)
 
 ### RotateZ()
 
@@ -2722,15 +2722,15 @@ Screenshot:
 
 Screenshot:
 
-![2d10](./day-22-css-2d-and-3d-transforms/images/10.png)
+![2d10](./chapter-22-css-2d-and-3d-transforms/images/10.png)
 
 ### Book Opening and Door Opening Effect Using RotateY and Tranform Origin
 
 Screenshot:
 
-![book opening](./day-22-css-2d-and-3d-transforms/images/11.png)
+![book opening](./chapter-22-css-2d-and-3d-transforms/images/11.png)
 
-![door opening](./day-22-css-2d-and-3d-transforms/images/12.png)
+![door opening](./chapter-22-css-2d-and-3d-transforms/images/12.png)
 
 ### Book Opening and Door Opening Live Project
 
@@ -2748,7 +2748,7 @@ Perspective Origin হলো এমন একটি property যেটার ম
 
 Screenshot:
 
-![translatez](./day-22-css-2d-and-3d-transforms/images/13.png)
+![translatez](./chapter-22-css-2d-and-3d-transforms/images/13.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/poVdVKL)
 
@@ -2759,7 +2759,7 @@ Screenshot:
 
 Screenshot:
 
-![scalez](./day-22-css-2d-and-3d-transforms/images/14.png)
+![scalez](./chapter-22-css-2d-and-3d-transforms/images/14.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/MWGOXKL)
 
@@ -2771,7 +2771,7 @@ Screenshot:
 
 Screenshot:
 
-![transtyle](./day-22-css-2d-and-3d-transforms/images/15.png)
+![transtyle](./chapter-22-css-2d-and-3d-transforms/images/15.png)
 
 [Open in CodePen](https://codepen.io/travelerabdulalim/pen/bGMYjeP)
 
@@ -2789,7 +2789,7 @@ Screenshot:
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
 
-# Day-23: CSS Animations
+# chapter-23: CSS Animations
 
 - [Introduction to CSS Animation](#introduction-to-css-animation)
 - [Keyframe](#keyframe)
