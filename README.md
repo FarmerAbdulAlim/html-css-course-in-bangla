@@ -2151,7 +2151,7 @@ Credit: W3Schools
 
 ### Direction - Top to Bottom (this is default )
 
-- অর্থাৎ আমরা যদি কোন Direction না দেই, তাহলে by default, Top to Bottom এ Transition হবে।
+- অর্থাৎ আমরা যদি কোন Direction না দেই, তাহলে by default, Top to Bottom এ Transition হবে। অর্থাৎ আমরা যে Color sets গুলা দিয়ে দিবো সেটা by default উপর থেকে নিচের দিকে Transition হবে।
 
 Example: `background-image: linear-gradients(red, yellow);` . This linear gradient starts red, transitioning to yellow.
 
@@ -2180,6 +2180,8 @@ Output Screenshot:
 ### Direction - 180deg
 
 যদি Direction এর উপর আমরা আরও বেশি Control নিতে চাই, তাহলে আমাদের যে Pre-defined Directions (to bottom, to top, to right, to left, to bottom right, etc.) আছে, এগুলোর বদলে আমরা Angle ব্যবহার করতে পারি। A value of 0deg is equivalent to "to top". A value of 90deg is equivalent to "to right". A value of 180deg is equivalent to "to bottom".
+যেহেতু `to bottom` হলো by default property, তাই `180deg` একইভাবে by default property. অর্থাৎ প্রথম ও দ্বিতীয় Color এর মধ্যে যদি একটা Line টানা যায়, সেই Line ভূমির সাথে 180 Degree কোন করে থাকবে, এইটা by default. এখন তুমি চাইলে এই Degree কম বেশি করতে পারো।
+
 Example: `background-image: linear-gradient(180deg, red, yellow);`
 
 Output Screenshot:
