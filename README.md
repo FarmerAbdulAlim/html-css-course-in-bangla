@@ -1,10 +1,10 @@
-# Learn HTML and CSS in 60 Days
+# Learn HTML and CSS in 60 Chapters
 
 ### After completing this course, we'll build [20 Projects](#20-html--css-projects) with HTML and CSS.
 
-While you complete the 60-days module, jump in the [Projects Section](#20-html--css-projects).
+While you complete the 60-chapter module, jump in the [Projects Section](#20-html--css-projects).
 
-|                            chapter                             |                                                    Topics                                                    | Video Explanation |
+|                            Chapter                             |                                                    Topics                                                    | Video Explanation |
 | :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------: |
 |          [00](#chapter-00-how-the-course-is-designed)          |                     [How The Course is Designed](#chapter-00-how-the-course-is-designed)                     |     Watch Now     |
 |                 [01](#chapter-01-introduction)                 |                                   [Introduction](#chapter-01-introduction)                                   |     Watch Now     |
@@ -93,24 +93,24 @@ While you complete the 60-days module, jump in the [Projects Section](#20-html--
 |                          19                          |                                                                                          |     Watch Now     |                           Live Demo                           |
 |                          20                          |                                                                                          |     Watch Now     |                           Live Demo                           |
 
-# chapter-00: How The Course is Designed
+# Chapter-00: How The Course is Designed
 
 ### কোর্সটি যেভাবে সাজানো হয়েছেঃ
 
-- কোর্সটি ৩০ দিনের মেয়াদে ভাগ করা হয়েছে। প্রত্যেকদিন HTML/CSS এর বিভিন্ন Topics নিয়ে আলোচনা করা হয়েছে।
-- প্রতিটা দিনের Module সাজানো হয়েছে ক্রমানুসারে । উদাহরণস্বরূপ, chapter-05 এর টপিকসগুলো শিখতে হলে অবশ্যই আপনাকে chapter-04 শেষ করে আসতে হবে। একইভাবে chapter-04 শিখতে হলে আপনাকে chapter-03 শেষ করে আসতে হবে ।
-- প্রতিটা দিনের Topics এর Written Explanation/Article এর সাথে সাথে Video Explanation-ও দেয়া আছে। যাতে শিক্ষার্থীরা খুব সহজেই টপিকসগুলো আত্মস্থ করতে পারে।
+- এই পুরো Article কে একটা বই মনে করতে পারেন। কোর্সটি 60 টি Chapter এ ভাগ করা হয়েছে। প্রতিটি Chapter এ HTML/CSS এর বিভিন্ন Topics নিয়ে আলোচনা করা হয়েছে।
+- প্রতিটা Chapter এর Module সাজানো হয়েছে ক্রমানুসারে । উদাহরণস্বরূপ, Chapter-05 এর টপিকসগুলো শিখতে হলে অবশ্যই আপনাকে Chapter-04 শেষ করে আসতে হবে। একইভাবে Chapter-04 শিখতে হলে আপনাকে Chapter-03 শেষ করে আসতে হবে ।
+- প্রতিটা Chapter এর Topics এর Written Explanation/Article এর সাথে সাথে Video Explanation-ও দেয়া আছে। যাতে শিক্ষার্থীরা খুব সহজেই টপিকসগুলো আত্মস্থ করতে পারে।
 
 ### কোর্সটি কাদের জন্য?
 
-- এই কোর্সটিতে যেকেউ অংশগ্রহণ করতে পারবে। শিখার জন্য মনের ইচ্ছাটাই আসল ।
+- এই কোর্সটিতে যেকেউ অংশগ্রহণ করতে পারবে। শিখার জন্য মনের ইচ্ছাটাই আসল!
 - Course টি মূলত Beginner-friendly. যারা Web Programming এ নতুন তাদেরকে উদ্দেশ্য করেই Course টি সাজানো।
 
 ### Prerequisite
 
 - HTML সম্পর্কে অল্প ধারনা থাকলে ভালো, না থাকলেও সমস্যা নেই।
 
-# chapter-01: Introduction
+# Chapter-01: Introduction
 
 - [What is HTML?](#what-is-html)
 - [HTML Basics](#html-basics)
@@ -172,9 +172,9 @@ Here we go:
 3. Video [Explanation](https://www.youtube.com/watch?v=hJHvdBlSxug) on Academind.
 4. An [Explanation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) on Mozilla.
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
-# chapter-02: Commonly Used HTML Tags & Their Usage
+# Chapter-02: Commonly Used HTML Tags & Their Usage
 
 - [&lt;em&gt;](#em)
 - [&lt;i&gt; vs &lt;em&gt;](#i-vs-em)
@@ -274,7 +274,7 @@ While `<em>` is used to change the meaning of a sentence as spoken emphasis does
 
 [Visit here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) to learn more.
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-03: HTML Entities, Hyperlinks, Images, Audio, Videos
 
@@ -464,7 +464,7 @@ Click to view the [Source Code](hyperlinks.html) which demonstrates all the exam
 - https://www.w3schools.com/html/html_links.asp
 - https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-11: CSS Position, Z-index, Overflow
 
@@ -565,7 +565,7 @@ The element is positioned relative to its normal position, so "left:20px" adds 2
 
 [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/MWGaJXB)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-12: CSS Float, Display, Alignment
 
@@ -674,7 +674,7 @@ The following example shows the different behavior of `display: inline`, `displa
 
 [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/BaxjQoG)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-13: CSS Flexbox
 
@@ -827,7 +827,7 @@ The align-items property is used to align the flex items.
 
 ### A Basic Website Layout Using CSS Flexbox
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-14: CSS Selectors
 
@@ -1915,7 +1915,7 @@ a[href*="google"] {
 
 [Open in Codepen](https://codepen.io/travelerabdulalim/pen/eYrEKBJ)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-15: CSS Text, Fonts & Icons
 
@@ -1969,7 +1969,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 [Open Source Codes in CodePen](https://codepen.io/travelerabdulalim/pen/qBYPqLV)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-17: CSS Image Gallery and Image Sprites
 
@@ -2007,7 +2007,7 @@ Credit: W3Schools
 
 Note: Practice the properties as more as you can!
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-20: CSS Grid Layout
 
@@ -2076,7 +2076,7 @@ Note: Practice the properties as more as you can!
 [Visualize and Play with Grid Properties](https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_grid-template-rows)
 Credit: W3Schools
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-21: CSS Gradient
 
@@ -2641,7 +2641,7 @@ Screenshot:
 
 ![Repeating Conic](./chapter-21-css-gradients/img-conic/10.png)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-22: CSS 2D and 3D Transforms
 
@@ -2789,7 +2789,7 @@ Screenshot:
 
 - কোন একটা 3D Object কে Rotate করলে যদি আমরা চাই যে তার পিছনের দিকটা না দেখাতে তাহলে আমরা `backface-visibility: hidden` করে দিতে পারি, By default এটি `visible` থাকে।
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-days)
+[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
 # chapter-23: CSS Animations
 
