@@ -282,7 +282,6 @@ While `<em>` is used to change the meaning of a sentence as spoken emphasis does
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
 </div>
 
-
 # chapter-03: HTML Entities, Hyperlinks, Images, Audio, Videos
 
 - [HTML Entities](#html-entities)
@@ -471,7 +470,9 @@ Click to view the [Source Code](hyperlinks.html) which demonstrates all the exam
 - https://www.w3schools.com/html/html_links.asp
 - https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
 # chapter-11: CSS Position, Z-index, Overflow
 
@@ -572,7 +573,9 @@ The element is positioned relative to its normal position, so "left:20px" adds 2
 
 [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/MWGaJXB)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
 # chapter-12: CSS Float, Display, Alignment
 
@@ -681,7 +684,9 @@ The following example shows the different behavior of `display: inline`, `displa
 
 **&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/BaxjQoG)**
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
 # chapter-13: CSS Flexbox
 
@@ -834,7 +839,9 @@ The align-items property is used to align the flex items.
 
 ### A Basic Website Layout Using CSS Flexbox
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
 # chapter-14: CSS Selectors
 
@@ -1922,11 +1929,13 @@ a[href*="google"] {
 
 [Open in Codepen](https://codepen.io/travelerabdulalim/pen/eYrEKBJ)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-15: CSS Text, Fonts & Icons
+# Chapter-15: CSS Text, Fonts & Icons
 
-# chapter-16: CSS Navigation Bar and Dropdowns
+# Chapter-16: CSS Navigation Bar and Dropdowns
 
 - [Introduction to CSS Navbar](#introduction-to-css-navbar)
 - [Simple Project to Create a Vertical Navbar](#simple-project-to-create-a-vertical-navbar)
@@ -1976,9 +1985,11 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 [Open Source Codes in CodePen](https://codepen.io/travelerabdulalim/pen/qBYPqLV)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-17: CSS Image Gallery and Image Sprites
+# Chapter-17: CSS Image Gallery and Image Sprites
 
 - [CSS Image Gallery: A Responsive Image Gallery Project](#css-image-gallery-a-responsive-image-gallery-project)
   - [What We learn While Building This Project](#what-we-learn-while-building-this-project)
@@ -1997,7 +2008,7 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 
 ### Project Screenshot
 
-# chapter-18: Website Layout
+# Chapter-18: Website Layout
 
 - [How to Create A Website Layout](#how-to-create-a-website-layout)
 
@@ -2006,7 +2017,11 @@ CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা �
 - একটা Website Layout তৈরি করতে যে বিষয়টা খেয়াল করতে হবে তা হলো, প্রথমে Website কে উপর থেকে নিচ বরাবর (Row) কয়টা ভাগে ভাগ করা যায়, এরপর দেখতে হবে ঐ প্রতিটা ভাগে আবার উপর থেকে নিচ (row) বা বাম থেকে ডান (column) বরাবর কয়টা ভাগে ভাগ করা যায়। তারপর আবার সেই Sub-section কে আবার প্রথমে দেখতে হবে উপর থেকে নিচ বরাবর ভাগ করা যায় কিনা, যদি না যায়, তাহলে বাম থেকে ডান বরাবর ভাগ করতে হবে, এইভাবে চলতে থাকবে যতক্ষণ পর্যন্ত পুরো Website ভাগ না করা হয়। এভাবে একটি Website এর Layout তৈরি করা হয়।
   Video তে বিষয়টি আরও ভালোভাবে বর্ণনা করা আছে।
 
-# chapter-19: Visualize and Play with CSS Properties
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
+
+# Chapter-19: Visualize and Play with CSS Properties
 
 Very Very helpful link to visualize, practice and play with css properties.
 Link: https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_grid-template
@@ -2014,9 +2029,11 @@ Credit: W3Schools
 
 Note: Practice the properties as more as you can!
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-20: CSS Grid Layout
+# Chapter-20: CSS Grid Layout
 
 - [A Sample Example of CSS Grid Layout Module](#a-sample-example-of-css-grid-layout-module)
 - [Basic Concept And Benefits of CSS Grid Layout](#basic-concept-and-benefits-of-css-grid-layout)
@@ -2083,9 +2100,11 @@ Note: Practice the properties as more as you can!
 [Visualize and Play with Grid Properties](https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_grid-template-rows)
 Credit: W3Schools
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-21: CSS Gradient
+# Chapter-21: CSS Gradient
 
 - [CSS Gradients Introduction](#css-gradients-introduction)
   - [Basic Concepts of CSS Gradients](#basic-concepts-of-css-gradients)
@@ -2648,9 +2667,11 @@ Screenshot:
 
 ![Repeating Conic](./chapter-21-css-gradients/img-conic/10.png)
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-22: CSS 2D and 3D Transforms
+# Chapter-22: CSS 2D and 3D Transforms
 
 - [Introduction To CSS 2D Transforms](#introduction-to-css-2d-transforms)
 - [2D Transforms Methods At A Glance](#2d-transforms-methods-at-a-glance)
@@ -2796,9 +2817,11 @@ Screenshot:
 
 - কোন একটা 3D Object কে Rotate করলে যদি আমরা চাই যে তার পিছনের দিকটা না দেখাতে তাহলে আমরা `backface-visibility: hidden` করে দিতে পারি, By default এটি `visible` থাকে।
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
-# chapter-23: CSS Animations
+# Chapter-23: CSS Animations
 
 - [Introduction to CSS Animation](#introduction-to-css-animation)
 - [Keyframe](#keyframe)
@@ -2883,6 +2906,10 @@ div {
 ### Animation Shorthand
 
 `animation: name duration timing-function delay iteration-count direction fill-mode;`
+
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
 
 # Project-02: Simple Website Layout with Float
 
