@@ -172,7 +172,7 @@ Here we go:
 3. Video [Explanation](https://www.youtube.com/watch?v=hJHvdBlSxug) on Academind.
 4. An [Explanation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) on Mozilla.
 
-[<center>Go to Top</center>](#learn-html-and-css-in-60-chapters)
+[<div style="text-align:center">Go to Top</div>](#learn-html-and-css-in-60-chapters)
 
 # Chapter-02: Commonly Used HTML Tags & Their Usage
 
