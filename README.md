@@ -174,6 +174,10 @@ Here we go:
 
 [Go to Top](#learn-html-and-css-in-60-chapters)
 
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
+
 # Chapter-02: Commonly Used HTML Tags & Their Usage
 
 - [&lt;em&gt;](#em)
@@ -274,7 +278,10 @@ While `<em>` is used to change the meaning of a sentence as spoken emphasis does
 
 [Visit here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) to learn more.
 
-[<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
+<div align="right">
+    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+</div>
+
 
 # chapter-03: HTML Entities, Hyperlinks, Images, Audio, Videos
 
@@ -607,11 +614,11 @@ The simplest use of `float` property is to to wrap text around images.
 
 ### Example of CSS Float Property (Source Codes)
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/zYjvzXQ)
+**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/zYjvzXQ)**
 
 ### Another Example of CSS Float Property
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmVVJ)
+**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmVVJ)**
 
 ### Clear Property
 
@@ -632,7 +639,7 @@ The overflow: auto clearfix works well as long as you are able to keep control o
 
 ### Example of CSS Clear Property
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/QWrjMJP)
+**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/QWrjMJP)**
 
 ## CSS Display Property
 
@@ -647,7 +654,7 @@ The following example shows the different behavior of `display: inline`, `displa
 
 ### Inline, Block and Inline-block Examples
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmBYy)
+**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmBYy)**
 
 ## CSS Alignment of Elements, Texts and Images
 
@@ -672,7 +679,7 @@ The following example shows the different behavior of `display: inline`, `displa
 
 ### CSS Alignment Examples
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/BaxjQoG)
+**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/BaxjQoG)**
 
 [<h3 align="center">Go to Top</h3>](#learn-html-and-css-in-60-chapters)
 
