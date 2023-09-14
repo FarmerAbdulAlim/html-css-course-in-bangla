@@ -1,72 +1,44 @@
-# Learn HTML and CSS in 60 Chapters
+# Learn HTML and CSS in 30 Chapters
 
 ### After completing this course, we'll build [20 Projects](#20-html--css-projects) with HTML and CSS.
 
-While you complete the 60-chapter module, jump in the [Projects Section](#20-html--css-projects).
+While you complete the 30-chapter module, jump in the [Projects Section](#20-html--css-projects).
 
-|                            Chapter                             |                                                    Topics                                                    | Video Explanation |
-| :------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------: |
-|          [00](#chapter-00-how-the-course-is-designed)          |                     [How The Course is Designed](#chapter-00-how-the-course-is-designed)                     |     Watch Now     |
-|                 [01](#chapter-01-introduction)                 |                                   [Introduction](#chapter-01-introduction)                                   |     Watch Now     |
-|     [02](#chapter-02-commonly-used-html-tags--their-usage)     |          [Commonly Used HTML Tags & Their Usage](#chapter-02-commonly-used-html-tags--their-usage)           |     Watch Now     |
-| [03](#chapter-03-html-entities-hyperlinks-images-audio-videos) | [HTML Entities, Hyperlinks, Images, Audio, Videos](#chapter-03-html-entities-hyperlinks-images-audio-videos) |     Watch Now     |
-|                               04                               |                                                                                                              |     Watch Now     |
-|                               05                               |                                                                                                              |     Watch Now     |
-|                               06                               |                                                                                                              |     Watch Now     |
-|                               07                               |                                                                                                              |     Watch Now     |
-|                               08                               |                                                                                                              |     Watch Now     |
-|                               09                               |                                                                                                              |     Watch Now     |
-|                               10                               |                                                                                                              |     Watch Now     |
-|        [11](#chapter-11-css-position-z-index-overflow)         |                 [CSS Position, Z-index, Overflow](#chapter-11-css-position-z-index-overflow)                 |     Watch Now     |
-|         [12](#chapter-12-css-float-display-alignment)          |                 [CSS Float, Display and Alignment](#chapter-12-css-float-display-alignment)                  |     Watch Now     |
-|                 [13](#chapter-13-css-flexbox)                  |                                    [CSS Flexbox](#chapter-13-css-flexbox)                                    |     Watch Now     |
-|                [14](#chapter-14-css-selectors)                 |                                  [CSS Selectors](#chapter-14-css-selectors)                                  |     Watch Now     |
-|                              [15]                              |                                         [CSS Text, Fonts and Icons]                                          |     Watch Now     |
-|       [16](#chapter-16-css-navigation-bar-and-dropdowns)       |               [CSS Navigation Bar and Dropdowns](#chapter-16-css-navigation-bar-and-dropdowns)               |     Watch Now     |
-|     [17](#chapter-17-css-image-gallery-and-image-sprites)      |            [CSS Image Gallery and Image Sprites](#chapter-17-css-image-gallery-and-image-sprites)            |     Watch Now     |
-|                               18                               |                                                                                                              |     Watch Now     |
-|    [19](#chapter-19-visualize-and-play-with-css-properties)    |         [Visualize and Play with CSS Properties](#chapter-19-visualize-and-play-with-css-properties)         |     Watch Now     |
-|               [20](#chapter-20-css-grid-layout)                |                                [CSS Grid Layout](#chapter-20-css-grid-layout)                                |     Watch Now     |
-|                 [21](#chapter-21-css-gradient)                 |                                  [CSS Gradients](#chapter-21-css-gradient)                                   |     Watch Now     |
-|           [22](#chapter-22-css-2d-and-3d-transforms)           |                       [CSS 2D and 3D Transforms](#chapter-22-css-2d-and-3d-transforms)                       |     Watch Now     |
-|                [23](#chapter-23-css-animations)                |                                 [CSS Animations](#chapter-23-css-animations)                                 |     Watch Now     |
-|                               24                               |                                                                                                              |     Watch Now     |
-|                               25                               |                                                                                                              |     Watch Now     |
-|                               26                               |                                                                                                              |     Watch Now     |
-|                               27                               |                                                                                                              |     Watch Now     |
-|                               28                               |                                                                                                              |     Watch Now     |
-|                               29                               |                                                                                                              |     Watch Now     |
-|                               30                               |                                                                                                              |     Watch Now     |
-|                               31                               |                                                                                                              |     Watch Now     |
-|                               32                               |                                                                                                              |     Watch Now     |
-|                               33                               |                                                                                                              |     Watch Now     |
-|                               34                               |                                                                                                              |     Watch Now     |
-|                               35                               |                                                                                                              |     Watch Now     |
-|                               36                               |                                                                                                              |     Watch Now     |
-|                               37                               |                                                                                                              |     Watch Now     |
-|                               38                               |                                                                                                              |     Watch Now     |
-|                               39                               |                                                                                                              |     Watch Now     |
-|                               40                               |                                                                                                              |     Watch Now     |
-|                               41                               |                                                                                                              |     Watch Now     |
-|                               42                               |                                                                                                              |     Watch Now     |
-|                               43                               |                                                                                                              |     Watch Now     |
-|                               44                               |                                                                                                              |     Watch Now     |
-|                               45                               |                                                                                                              |     Watch Now     |
-|                               46                               |                                                                                                              |     Watch Now     |
-|                               47                               |                                                                                                              |     Watch Now     |
-|                               48                               |                                                                                                              |     Watch Now     |
-|                               49                               |                                                                                                              |     Watch Now     |
-|                               50                               |                                                                                                              |     Watch Now     |
-|                               51                               |                                                                                                              |     Watch Now     |
-|                               52                               |                                                                                                              |     Watch Now     |
-|                               53                               |                                                                                                              |     Watch Now     |
-|                               54                               |                                                                                                              |     Watch Now     |
-|                               55                               |                                                                                                              |     Watch Now     |
-|                               56                               |                                                                                                              |     Watch Now     |
-|                               57                               |                                                                                                              |     Watch Now     |
-|                               58                               |                                                                                                              |     Watch Now     |
-|                               59                               |                                                                                                              |     Watch Now     |
-|                               60                               |                                                                                                              |     Watch Now     |
+|                                     Chapter                                      |                                                                      Topics                                                                      | Video Explanation |
+| :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------: |
+|                   [00](#chapter-00-how-the-course-is-designed)                   |                                       [How The Course is Designed](#chapter-00-how-the-course-is-designed)                                       |   [Watch Now]()   |
+|   [01](#chapter-01-environment-setup-html-elements-attributes-text-formatting)   |     [Environment Setup, HTML Elements, Attributes, Text Formatting](#chapter-01-environment-setup-html-elements-attributes-text-formatting)      |   [Watch Now]()   |
+|             [02](#chapter-02-html-quotation-link-image-and-favicon)              |                           [HTML Quotation, Link, Image and Favicon](#chapter-02-html-quotation-link-image-and-favicon)                           |     Watch Now     |
+| [03](#chapter-03-html-table-list-iframes-code-tag-semantic-element-and-entities) | [HTML Table, List, Iframes, Code Tag, Semantic Element and Entities](#chapter-03-html-table-list-iframes-code-tag-semantic-element-and-entities) |     Watch Now     |
+|             [04](#chapter-04-html-symbols-emojis-charsets-and-forms)             |                          [HTML Symbols, Emojis, Charsets and Forms](#chapter-04-html-symbols-emojis-charsets-and-forms)                          |     Watch Now     |
+|                 [05](#chapter-05-html-canvas-svg-and-html-media)                 |                                  [HTML Canvas, SVG and HTML Media](#chapter-05-html-canvas-svg-and-html-media)                                   |     Watch Now     |
+|  [06](#chapter-06-introduction-to-css-css-selectors-ways-of-styling-and-color)   |     [Introduction to CSS, CSS Selectors, Ways of Styling and Color](#chapter-06-introduction-to-css-css-selectors-ways-of-styling-and-color)     |     Watch Now     |
+|                                        07                                        |                                                                                                                                                  |     Watch Now     |
+|                                        08                                        |                                                                                                                                                  |     Watch Now     |
+|                                        09                                        |                                                                                                                                                  |     Watch Now     |
+|                                        10                                        |                                                                                                                                                  |     Watch Now     |
+|                 [11](#chapter-11-css-position-z-index-overflow)                  |                                   [CSS Position, Z-index, Overflow](#chapter-11-css-position-z-index-overflow)                                   |     Watch Now     |
+|                  [12](#chapter-12-css-float-display-alignment)                   |                                   [CSS Float, Display and Alignment](#chapter-12-css-float-display-alignment)                                    |     Watch Now     |
+|                          [13](#chapter-13-css-flexbox)                           |                                                      [CSS Flexbox](#chapter-13-css-flexbox)                                                      |     Watch Now     |
+|                         [14](#chapter-14-css-selectors)                          |                                                    [CSS Selectors](#chapter-14-css-selectors)                                                    |     Watch Now     |
+|                     [15](#chapter-15-css-text-fonts--icons)                      |                                          [CSS Text, Fonts and Icons](#chapter-15-css-text-fonts--icons)                                          |     Watch Now     |
+|           [16](#chapter-16-css-links-lists-tables-display--max-width)            |                      [CSS Links, Lists, Tables, Display, Max-width](#chapter-16-css-links-lists-tables-display--max-width)                       |     Watch Now     |
+|              [17](#chapter-17-css-image-gallery-and-image-sprites)               |                              [CSS Image Gallery and Image Sprites](#chapter-17-css-image-gallery-and-image-sprites)                              |     Watch Now     |
+|                                        18                                        |                                                                                                                                                  |     Watch Now     |
+|             [19](#chapter-19-visualize-and-play-with-css-properties)             |                           [Visualize and Play with CSS Properties](#chapter-19-visualize-and-play-with-css-properties)                           |     Watch Now     |
+|                        [20](#chapter-20-css-grid-layout)                         |                                                  [CSS Grid Layout](#chapter-20-css-grid-layout)                                                  |     Watch Now     |
+|                          [21](#chapter-21-css-gradient)                          |                                                    [CSS Gradients](#chapter-21-css-gradient)                                                     |     Watch Now     |
+|                    [22](#chapter-22-css-2d-and-3d-transforms)                    |                                         [CSS 2D and 3D Transforms](#chapter-22-css-2d-and-3d-transforms)                                         |     Watch Now     |
+|                         [23](#chapter-23-css-animations)                         |                                                   [CSS Animations](#chapter-23-css-animations)                                                   |     Watch Now     |
+|                                        24                                        |                                                                                                                                                  |     Watch Now     |
+|                                        25                                        |                                                                                                                                                  |     Watch Now     |
+|                                        26                                        |                                                                                                                                                  |     Watch Now     |
+|                                        27                                        |                                                                                                                                                  |     Watch Now     |
+|                                        28                                        |                                                                                                                                                  |     Watch Now     |
+|                                        29                                        |                                                                                                                                                  |     Watch Now     |
+|                                        30                                        |                                                                                                                                                  |     Watch Now     |
+
+|
 
 # 20 HTML & CSS Projects
 
@@ -110,18 +82,103 @@ While you complete the 60-chapter module, jump in the [Projects Section](#20-htm
 
 - HTML সম্পর্কে অল্প ধারনা থাকলে ভালো, না থাকলেও সমস্যা নেই।
 
-# Chapter-01: Introduction
+# Chapter-01: Environment Setup, HTML Elements, Attributes, Text Formatting
 
 - [What is HTML?](#what-is-html)
+- [History of HTML](#history-of-html)
+  - [Founder of HTML](#founder-of-html)
+  - [The World’s First Website](#the-worlds-first-website)
+- [What is CSS?](#what-is-css)
+  - [Founder of CSS](#founder-of-css)
+- [Environment Setup](#environment-setup)
 - [HTML Basics](#html-basics)
-- [How Web Works?](#how-web-works)
+- [HTML Elements](#html-element)
+- [HTML Attributes](#html-attributes)
+- [HTML Style Attribute](#html-style-attribute)
+- [HTML Text Formatting](#html-text-formatting)
+- [Assignments for Chapter 01](#assignments-for-chapter-01)
+- [How Web Works? (Optional for Right Now)](#how-web-works)
 
-### What is HTML?
+## What is HTML?
 
-The full meaning of HTML is **_Hyper Text Transfer Protocol_**. HTML is a Markup language.  
-HTML is used to buld the **_STRUCTURE_** of the web pages.
+- The full meaning of HTML is **_Hyper Text Markup Language_**. HTML হলো একটি _Markup language_.  
+  HTML is used to build the **_STRUCTURE_** of the web pages.
+- একটি ভাষা শিখতে যেমন বর্ণমালা দিয়ে শুরু করতে হয়, ঠিক তেমনি Web Developement শিখতেও HTML, CSS দিয়ে শুরু করতে হয়।
+- এইচটিএমএল এর মার্ক আপ ট্যাগ সমূহ ব্যবহার করে ওয়েবপেজ এর বেসিক কাঠামো তৈরি করা হয়। কঙ্কাল যেমন মানুষের দেহ গঠন করে , তেমনি এইচটিএমএল একটি ওয়েবসাইটের কাঠামো তৈরি করে ।
+- HTML কোনো প্রোগ্রামিং ল্যাংগুয়েজ নয় বরং একটি মার্কআপ ল্যাংগুয়েজ যা কতগুলো মার্কআপ ট্যাগ এর সমন্বয় গঠিত।
+- HTML ফাইলের এক্সটেনশন **_.html_** অথবা **_.htm_** দিতে হয়।
 
-### HTML Basics
+## History of HTML
+
+- ১৯৯১ সালে ব্রিটিশ পদার্থবিদ ও কম্পিউটার বিজ্ঞানী **টিম বার্নার্স-লি**, CERN(European Council for Nuclear Research) এ কর্মরত ছিলেন। ঐ সময় CERN এর কর্মীদের মাঝে বিভিন্ন Documents Share করার জন্য সর্বপ্রথম HTML আবিষ্কার করেন। পরবর্তীতে ১৯৯৩ সালে HTML 1.0 Officially Released করা হয়।
+- ঐ সময় HTML এর ট্যাগ ছিল মাত্র ১৮ টা। বর্তমানে ১৪২ টা ট্যাগ আছে।
+- HTML এর বিভিন্ন Versions and Release Year
+
+| **Version** | **Release Year** |
+| ----------- | ---------------- |
+| HTML 1.0    | 1993             |
+| HTML 2.0    | 1995             |
+| HTML 3.0    | 1997             |
+| HTML 4.0    | 1999             |
+| HTML 5.0    | 2014             |
+
+### Founder of HTML
+
+![Tim Lee](./chapter-01/images/tim.jpg)
+
+### The World’s First Website
+
+- To Visit the World's First Website: [Click Here](http://info.cern.ch/hypertext/WWW/TheProject.html)
+- Screenshot:
+  ![first-website](./chapter-01/images/first-website.png)
+
+## What is CSS?
+
+- CSS (Cascading Style Sheet ) হল একটি Style Sheet Lanuage যা HTML এ লিখিত ডকুমেন্ট কীভাবে উপস্থাপিত ও সজ্জিত হবে তা নির্ধারণ করে। অর্থাৎ HTML দিয়ে Website এর Structure এবং CSS দিয়ে Design করা হয়।
+- CSS File এর Extension হলো **_.css_**
+
+## History of CSS
+
+- CSS আসার আগে, যেকোনো ওয়েব ডকুমেন্ট (web document) এর কোনো style বা design ছিলোনা। মানে, যখন একটি ওয়েবসাইট বা ওয়েব পেজের মধ্যে ভিসিট করা হতো, তখন সেখানে কেবল **বিচ্ছিন্ন কিছু TEXT** ছাড়া কিছুই থাকতোনা। এই সমস্যার সমাধান করতে গিয়ে HTML `<style></style>` tag এর বিকাশ হলো। কিন্তু এরও কিছু সীমাবদ্ধতা থেকে গেলো।
+- অবশেষে ১৯৯৪ সালে Håkon Wium Lie নামে একজন Computer Scientist CSS আবিষ্কার করেন। ১৯৯৬ সালে Officially CSS 1.0 Version Release করা হয়। তিনিও **টিম বার্নার্স-লি** এর মত CERN(European Council for Nuclear Research) এ কর্মরত ছিলেন।
+- Version History:
+
+| **Version** | **Release Year** |
+| ----------- | ---------------- |
+| CSS 1.0     | 1996             |
+| CSS 2.0     | 1998             |
+| CSS 3.0     | 1999 (Draft)     |
+
+- CSS3 Single Version এ Released হয়নি, বরং বিভিন্ন Module এ Release হয়েছে। যেমনঃ
+- ২০০১ সালে CSS3 তে Selector Level 3 আসে।
+- ২০০২ সালে Box Model, Background, Borders আসে।
+- ২০০৯ সালে আসে Media Queries, Transitions, Animation এবং Flexbox.
+- ২০১১ সালে আসে Grid Layout, Multi Column Layout.
+
+CSS এর Details Version History দেখতে [এখানে](https://www.w3.org/Style/CSS20/) ক্লিক করুন।
+
+### Founder of CSS
+
+![css founder](./chapter-01/images/lie.jpg)
+
+## Environment Setup
+
+- To download VS Code [Visit Here](https://code.visualstudio.com/). Download the VS Code according to your Operating Stytem.
+- For Windows, Click the marked button.
+  ![vscode](./chapter-01/images/vscode.png)
+- Now install the following extensions.
+  - Auto Close Tag
+  - Auto Rename Tag
+  - Code Runner
+  - IntelliSense for CSS class names
+  - JavaScript Code Snippets
+  - Live Preview
+  - Live Server
+  - Prettier - Code Formatter
+
+**_Congratulations! you're ready to code now!_**
+
+## HTML Basics
 
 - **`<DOCTYPE html>`** is used to **tell** the browser, this is an HTML5 document.
 - **`<html>`** is the **container** of all HTML elements. This tag is used to **indicate** the beginning and end of all HTML elements in an HTML Document.
@@ -148,21 +205,63 @@ HTML is used to buld the **_STRUCTURE_** of the web pages.
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="keywords"
-      content="TravellerAlim, Alim, Travel, AlimTheTraveller"
-    />
+    <meta name="keywords" content="CodeJogot, CodeJogot Course" />
     <meta
       name="description"
-      content="Alim is an passionate traveler who travels around the world and loves to make adventures"
+      content="CodeJogot - A game-based learning platform!"
     />
-    <title>TravellerAlim</title>
+    <title>CodeJogot</title>
   </head>
   <body></body>
 </html>
 ```
 
-### How Web Works?
+## HTML Element
+
+- An HTML element is defined by a start tag, some content, and an end tag.
+- যে Element এর কোন Content থাকে না, তাকে Empty Element বলে। যেমনঃ `<br>`
+
+- HTML Tags are not case-sensitive. অর্থাৎ `<DIV>` এবং `<div>` এই দুটোর অর্থ একই। কিন্তু W3C(World Wide Web Consortium) recommend করে Lowercase এ লিখার জন্য।
+
+### Structure of an Element/Tag
+
+![tag](./chapter-01/images/tag.jpg)
+
+### HTML Attributes
+
+- HTML Attributes, HTML Element কে আরও Features যোগ করার ক্ষমতা দেয়, ফলে Element টি আরও শক্তিশালী হয়ে উঠে!
+- Element এর প্রথম Tag এ Attributes লিখতে হয়।
+- Format: `name: "value"`
+- Example: `<p title="CodeJogot.Com">CodeJogot is an educational platform<p>`
+
+## HTML Style Attribute
+
+- কোন একটা Element কে Style করতে Style Attribute ব্যবহার করা হয়। যেমনঃ Element এর color, font-size, width, height ইত্যাদি।
+- Syntax: `<tagname style="property:value;">` এখানে Property এবং Value কি সেটা আমরা CSS এ শিখবো।
+- Example: `<p style="color:blue;">I am blue</p>`
+
+## HTML Text Formatting
+
+- HTML এ বেশ কয়েকটি Element আছে যেগুলো দিয়ে বিভিন্ন ধরনের Text Display করতে পারি। যেমনঃ
+
+| **No.** | **Element Name** | **Element Role**                                                                                                                                                                 |
+| ------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | `<b>`            | Text Bold করার জন্য। (without SEO concern)                                                                                                                                       |
+| 2       | `<strong>`       | Text Bold করার জন্য। (with SEO concern)                                                                                                                                          |
+| 3       | `<i>`            | Text Italic করার জন্য। (without SEO concern)                                                                                                                                     |
+| 4       | `<em>`           | Text Italic/Emphasized করার জন্য। (with SEO concern)                                                                                                                             |
+| 5       | `<mark>`         | Text Mark করার জন্য।                                                                                                                                                             |
+| 6       | `<small>`        | খুব ছোট্ট টেক্সট এর জন্য।                                                                                                                                                        |
+| 7       | `<del>`          | টেক্সট এর মাঝখানে একটা লাইন দিয়ে এটা Deleted সেটা বুঝানোর জন্য।                                                                                                                  |
+| 8       | `<ins>`          | কোন Text কে Document এ Insert করার জন্য।                                                                                                                                         |
+| 9       | `<sub>`          | Subscript Text এর জন্য। এটি Normal Line থেকে একটু নিচে চলে যায়। সারারনত Chemical Formula যেমন পানির সংকেত, সালফিউরিক এসিডের সংকেত ইত্যাদি এগুলোর জন্য এই Element ব্যবহার করা হয়। |
+| 10      | `<sup>`          | Superscript Text এর জন্য। এই Element সাধারনত Mathematical Formula লিখতে ব্যবহার করা হয়।                                                                                          |
+
+## Assignments for Chapter 01
+
+![assignment for chapter 01](./chapter-01/images/assignment.png)
+
+## How Web Works?
 
 Hey, rather wasting some time, I'm gonna provide you some useful resources to learn how the web works!
 Here we go:
@@ -172,122 +271,315 @@ Here we go:
 3. Video [Explanation](https://www.youtube.com/watch?v=hJHvdBlSxug) on Academind.
 4. An [Explanation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) on Mozilla.
 
-[Go to Top](#learn-html-and-css-in-60-chapters)
+
 
 <div align="right">
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
 </div>
 
-# Chapter-02: Commonly Used HTML Tags & Their Usage
+# Chapter-02: HTML Quotation, Link, Image and Favicon
 
-- [&lt;em&gt;](#em)
-- [&lt;i&gt; vs &lt;em&gt;](#i-vs-em)
-- [&lt;strong&gt;](#strong)
-- [&lt;b&gt; vs &lt;strong&gt;](#b-vs-strong)
+- [HTML Quotation](#html-quotation)
+  - [Blockquote Element](#blockquote-element)
+  - [Q Element](#q-element)
+  - [ABBR Element](#abbr-element)
+  - [Address Element](#address-element)
+  - [Cite Element](#cite-element)
+  - [BDO Element](#bdo-element)
+- [HTML Link](#html-link)
+  - [Absolute URL vs Relative URL](#absolute-url-vs-relative-url)
+  - [Image as A Link](#image-as-a-link)
+  - [Link to An Email Address](#link-to-an-email-address)
+  - [Button As A Link](#button-as-a-link)
+  - [Link Bookmark](#link-bookmark)
+- [HTML Image](#html-image)
+  - [Image Map](#image-map)
+  - [Image As Background](#image-as-background)
+- [HTML Favicon](#html-favicon)
 
-### em
+## HTML Quotation
 
-The **`<em>`** element is used to define emphasized text. By default, emphasized text is displayed in _italic_. However, it should not be used to apply italic styling; use the CSS `font-style` property for that purpose. Use the `<cite>` element to mark the title of a work (book, play, song, etc.). Use the `<i>` element to mark text that is in an alternate tone or mood, which covers many common situations for italics such as scientific names or words in other languages. Use the `<strong>` element to mark text that has greater importance than surrounding text.<br>
-Visit [HERE](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em) for learning more about this element.
+### Blockquote Element
 
-**Example:**
+- সাধারণত কোন Section (Text, Images etc) যদি অন্য কোন Source থেকে আসে, তাহলে ঐ Section কে Quote করার জন্য আমরা `<blockquote>` Element টি ব্যবহার করে থাকি। Section টি যে Source থেকে এসেছে, সেই Source এর লিংক _cite_ Attribute এ দিতে হয়। যেমনঃ
+
+```html
+<blockquote cite="https://en.wikipedia.org/wiki/Cox%27s_Bazar">
+  Cox's Bazar is a city, fishing port, tourism centre, and district headquarters
+  in Southeastern Bangladesh. It is located 150 km (93 mi) south of the city of
+  Chittagong.
+</blockquote>
+```
+
+- Blockquote Element টি by default বাম ও ডান দিক থেকে কিছু Margin নেয়।
+- সাধারণত বড় Quote বা Section কে `<blockquote>` দিয়ে এবং ছোট Quote কে `<q>` দিয়ে Express করা হয়।
+
+### Q Element
+
+- Short Quote এর জন্য এই Element টি ব্যবহার করা হয়।
+- `<q>` element টি তার Content এর উভয় দিকে double quotation("") sign দিয়ে দেয়।
+
+### ABBR Element
+
+- Abbreviation or Acronym এর জন্য `<abbr>` element টি ব্যবহার করা হয়। যেমন: HTML, CSS, ATM, IP, WHO etc.
+- এই Element এর _title_ attribute এ যা দেয়া হবে সেটা Mouse Hover করলে দেখা যাবে।
+
+### Address Element
+
+- Contact Information এর জন্য `<address>` element টি ব্যবহার করা হয়।
+- Contact Information যেকোনো কিছুই হতে পারে যেমনঃ Email Address, Phone Number, URL, Physical Address, Social Media Handle etc.
+- Address Element এর Content by default Italic থাকে।
+
+### Cite Element
+
+- কোন একটা Creative কাজের (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.) Title দেবার জন্য `<cite>` element টি ব্যবহার করা হয়। যেমনঃ
+
+```html
+<cite>Paradoxical Sajid</cite> by Arif Azad, first published in 2018.
+```
+
+### BDO Element
+
+- BDO(Bi-directional Override) Element টি বর্তমান Text Direction কে Override করে। _dir_ নামে Attribute এ যে Direction দেয়া থাকে সেই Direction অনুযায়ী Browser এ Render হয়।
+
+যেমনঃ
+
+```html
+<bdo dir="rtl">CodeJogot is an online educational platform</bdo>
+```
+
+## HTML Link
+
+- এক পেইজ থেকে অন্য পেইজে Visit করার জন্য লিংক ব্যবহার করা হয়।
+- লিংক কেবলমাত্র Text ই হবে এমনটা নয়, Images বা যেকোনো HTML Element-ও হতে পারে।
+- `<a>` Anchor Element দিয়ে লিংক তৈরি করতে হয়।
+- Anchor Element এর সবচেয়ে গুরুত্বপূর্ণ Attribute হলো _href_ attribute. এই Attribute এর মাধ্যমে বলে দিতে হয় লিংক এর destination কোথায়।
+- By default Anchor Element এর কিছু বৈশিষ্ট থাকেঃ
+  - An unvisited link is underlined and blue.
+  - A visited link is underlined and purple.
+  - An active link is underlined and red.
+- _target_ attribute এর Value `_blank` দিলে নতুন Window/Tab এ পেজ Open হবে।
+- _title_ attribute এ Extra Information দেয়া যায়, যা Tooltip আঁকারে Display হয়। যেমনঃ
+
+```html
+<a href="https://github.com/CodeJogot" title="Go to CodeJogot GitHub"
+  >Visit CodeJogot GitHub</a
+>
+```
+
+### Absolute URL vs Relative URL
+
+- Absolute Link হলো একটা Complete URL যেটা Internet এ থাকা Resources কে Exactly Point করে। Absolute Link শুরু হয় **_http://_** or **_https://_**, এরপর Domain Name, এরপর Resource Path. অর্থাৎ **_Absolute Link = https:// + www.example.com + Resources Path_**
+
+  - Example:
+
+  ```html
+  <a href="https://www.example.com/resources/document.pdf">Download PDF</a>
+  ```
+
+- A relative link, on the other hand, specifies the path to the linked resource relative to the current location of the HTML file. Instead of providing the entire URL, a relative link only includes the path to the resource from the current directory or position. Here's an example:
+  - Example:
+  ```html
+  <a href="../resources/document.pdf">Download PDF</a>
+  ```
+  - `..` দিলে Directory এক লেভেল উপরে চলে যাবে।
+
+### Image as a Link
+
+- Image কে চাইলে লিংক হিসেবে ব্যবহার করা যায়। যে Image কে আমরা লিংক হিসেবে ব্যবহার করতে চাই, ঐ Image কে Anchor Tag এর মধ্যে দিতে হয়। Example:
+
+```html
+<a href="https://www.codejogot.com">
+  <img src="codejogot-logo.jpg" alt="CodeJogot Logo" />
+</a>
+```
+
+### Link to An Email Address
+
+- Email Link তৈরি করার জন্য আমাদের **_href_** attribute এর মধ্যে **_mailto:_** ব্যবহার করতে হয়। Example:
+
+```html
+<a href="mailto:support@codejogot.com">Send email</a>
+```
+
+### Button As A Link
+
+- আমরা চাইলে একটা Button কেও লিংক হিসেবে ব্যবহার করতে পারি। সেক্ষেত্রে Button এ ক্লিক করলে কি হবে সেটা _onclick_ attribute এ আমরা বলে দিতে পারি।
+  যেমনঃ
+
+```html
+<button onclick="document.location='https://github.com/CodeJogot'">
+  CodeJogot GitHub
+</button>
+```
+
+### Link Bookmark
+
+- একটা Webpage এ যদি অনেক বেশি Contents থাকে, তাহলে চাইলে নির্দিষ্ট একটা Section এ Jump করতে পারি।
+
+## HTML Image
+
+- Image এর চারটা গুরুত্বপূর্ণ Attribute হলো: **_src, alt, width, height_**.
+
+### Image Map
+
+- একটা Image এর মধ্যে বিভিন্ন Region Clickable করার জন্য Image Map Concept ব্যবহার করা হয়।
+- Image Map তৈরি করার Steps:
+  - একটা Image Element তৈরি করতে হবে যার **_usemap_** নামে একটা Attribute থাকতে হবে।
+  - `<map>` element তৈরি করতে হবে যার **_name_** নামে একটা Attribute থাকতে হবে।
+  - `<map>` elements এর মধ্যে `<area>` elements তৈরি করতে হবে। যতগুলো Regions কে Clickable করা প্রয়োজন ঠিক ততগুলো `<area>` elements তৈরি করতে হবে।
+  - প্রত্যেকটা Area Elements এ **_shape_**, **_coords_**, এবং **_href_** attributes দিতে হবে।
+
+### Image As Background
+
+### Picture Element
+
+- Picture Element এর মধ্যে `<source>` এবং `<img>` element ব্যবহার করতে হয়। Image Element টি শেষ Child হিসেবে দিতে হয়, যাতে কোন Browser যদি Picture Element Support না করে, তাহলে Image Element এর Image টি Render/Display করতে পারে।
+
+### The Purpose of Picture Element
+
+- যখন আমরা ভিন্ন ভিন্ন Screen Size এ ভিন্ন ভিন্ন Image Display করতে চাই, তখন Picture Element ব্যবহার করে কাজটি সহজে করতে পারি।
+- অনেক সময় Browser বা Devices এর কারনে Specific Image Type Display হয় না, সেক্ষেত্রে আমরা সবগুলো Image Type `<source>` element এর মধ্যে দিয়ে দিতে পারি। এই সমস্যা সমাধানের জন্য Picutre Element খুবই Effective.
+- ছোট Device এর জন্য বড় Size এর Image Render হওয়া জরুরী নয়। তাই ছোট Device এ কেমন Size এর Image Render হবে সেটা আমরা এই Picture Element দিয়ে বলে দিতে পারি।
+
+## HTML Favicon
+
+- Webpage এর Page Title এর পাশে ছোট্ট যে Image ব্যবহার করা হয় তাকে Favicon বলে।
+
+<div align="right">
+    <b><a href="#learn-html-and-css-in-30-chapters">↥ Go to Top</a></b>
+</div>
+
+# Chapter-03: HTML Table, List, Iframes, Code Tag, Semantic Element and Entities
+
+- [HTML Table](#html-table)
+  - [এক নজরে সবগুলো প্রয়োজনীয় টেবিল ট্যাগস](#এক-নজরে-সবগুলো-প্রয়োজনীয়-টেবিল-ট্যাগস)
+  - [Table Border](#table-border)
+- [HTML List](#html-list)
+  - [Unordered List](#unordered-list)
+  - [Ordered List](#ordered-list)
+- [HTML Iframe](#html-iframe)
+- [Code Tag](#code-tag)
+- [HTML Semantic Element](#html-semantic-element)
+- [HTML Entities](#html-entities)
+- [Assignment for Chapter 3](#assignments-for-chapter-3)
+
+## HTML Table
+
+- HTML Table তৈরি করতে সাধারণত আমাদের 6 টা ট্যাগ ব্যবহার করতে হয়। সেগুলো হলোঃ `<table>`, `<thead>`, `<tbody>` `<tr>`, `<th>` এবং `<td>`.
+
+### Example
+
+![table](/chapter-03/images/table-1.png)
+
+### Source Codes
 
 ```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="keywords"
-      content="TravellerAlim, Alim, Travel, AlimTheTraveller"
-    />
-    <meta
-      name="description"
-      content="Alim is an passionate traveler who travels around the world and loves to make adventures"
-    />
-    <title>TravellerAlim</title>
+    <title>Document</title>
+    <style>
+      table,
+      th,
+      td {
+        border: 2px solid black;
+        padding: 10px;
+        border-collapse: collapse;
+      }
+    </style>
   </head>
   <body>
-    <article>
-      Cox’s Bazar is a town on the southeast coast of <em>Bangladesh</em>.
-    </article>
+    <h3>3. Table</h3>
+    <table border="1" cellspacing="2" cellpadding="2">
+      <tr>
+        <th rowspan="11">TCB</th>
+        <th>Order no:</th>
+        <td colspan="3">#ABC001</td>
+      </tr>
+      <tr>
+        <th>Order date:</th>
+        <td colspan="3">23-Ma-2016</td>
+      </tr>
+      <tr>
+        <th colspan="4">Customer</th>
+      </tr>
+      <tr>
+        <th>Name:</th>
+        <td colspan="3">John Papas</td>
+      </tr>
+      <tr>
+        <th>Address:</th>
+        <td colspan="3">Independence Day 5th str, 11511</td>
+      </tr>
+      <tr>
+        <th colspan="4">Order Details</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Of Mice and Men</td>
+        <td>Book</td>
+        <td>10.00 &euro;</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Les Miscerables</td>
+        <td>Book</td>
+        <td>12.00 &euro;</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Game of Thrones-So1</td>
+        <td>DVD</td>
+        <td>50.00 &euro;</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Samsung Galaxy</td>
+        <td>Mobile Phone</td>
+        <td>200.00 &euro;</td>
+      </tr>
+      <tr>
+        <th colspan="3">Total:</th>
+        <td>272.00 &euro;</td>
+      </tr>
+    </table>
   </body>
 </html>
 ```
 
-**Output:**
-Cox’s Bazar is a town on the southeast coast of _Bangladesh_.
+### এক নজরে সবগুলো প্রয়োজনীয় টেবিল ট্যাগস
 
-### i vs em
+| **নং** | **ট্যাগ**    | **যে কারনে ব্যবহার করা হয়**                           |
+| ------ | ------------ | ----------------------------------------------------- |
+| 1      | `<table>`    | টেবিল তৈরি করার জন্য।                                 |
+| 2      | `<th>`       | টেবিলের মধ্যে Cell তৈরি করার জন্য। (Header Cell)      |
+| 3      | `<tr>`       | টেবিলের Row তৈরি করার জন্য ।                          |
+| 4      | `<td>`       | টেবিলের মধ্যে Cell তৈরি করার জন্য। (Data Cell)        |
+| 5      | `<caption>`  | টেবিলের ক্যাপশন দেয়ার জন্য।                           |
+| 6      | `<colgroup>` | এক বা একাধিক Columns কে গ্রুপ করার জন্য।              |
+| 7      | `<col>`      | `<colgroup>` এর মধ্যে প্রতিটা কলাম Specify করার জন্য। |
+| 8      | `<thead>`    | টেবিলের Header Contents কে গ্রুপ করার জন্য।           |
+| 9      | `<tbody>`    | টেবিলের Body Contents কে গ্রুপ করার জন্য।             |
+| 10     | `<tfoot>`    | টেবিলের Footer Contents কে গ্রুপ করার জন্য।           |
 
-New developers are often confused at seeing multiple elements that produce similar results. `<em>` and `<i>` are a common example, since they both italicize text. What's the difference? Which should you use?
+### Table Border
 
-By default, the visual result is the same. However, the semantic meaning is different. The `<em>` element represents stress emphasis of its contents, while the `<i>` element represents text that is set off from the normal prose, such a foreign word, fictional character thoughts, or when the text refers to the definition of a word instead of representing its semantic meaning. (The title of a work, such as the name of a book or movie, should use `<cite>`.)
+## HTML List
 
-This means the right one to use depends on the situation. Neither is for purely decorative purposes, that's what CSS styling is for.
+### Unordered List
 
-An example for `<em>` could be: "Just _do_ it already!", or: "We _had_ to do something about it". A person or software reading the text would pronounce the words in italics with an emphasis, using verbal stress.
+### Ordered List
 
-An example for `<i>` could be: "The _Queen Mary_ sailed last night". Here, there is no added emphasis or importance on the word "Queen Mary". It is merely indicated that the object in question is not a queen named Mary, but a ship named _Queen Mary_. Another example for `<i>` could be: "The word _the_ is an article".
+## HTML Iframe
 
-**Example:**
+## Code Tags
 
-```html
-<p>
-  In HTML 5, what was previously called
-  <em>block-level</em> content is now called <em>flow</em> content.
-</p>
-```
+## HTML Semantic Element
 
-**Result/Output:**
-In HTML 5, what was previously called _block-level_ content is now called _flow_ content.
-
-Thanks [Mozilla Developer Network-MDN](https://developer.mozilla.org/en-US/docs/MDN/About) for [this awesome documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em).
-
-### strong
-
-The `<strong>` element indicates that its contents have strong importance, seriousness, or urgency. Browsers typically render the contents in bold type.
-
-The `<strong>` element is for content that is of "strong importance," including things of great seriousness or urgency (such as warnings). This could be a sentence that is of great importance to the whole page, or you could merely try to point out that some words are of greater importance compared to nearby content.
-
-Typically this element is rendered by default using a bold font weight. However, it should not be used to apply bold styling; use the CSS `font-weight` property for that purpose. Use the `<b>` element to draw attention to certain text without indicating a higher level of importance. Use the `<em>` element to mark text that has stress emphasis.
-
-Another accepted use for `<strong>` is to denote the labels of paragraphs which represent notes or warnings within the text of a page.
-
-### b vs strong
-
-It is often confusing to new developers why there are so many ways to express the same thing on a rendered website. `<b>` and `<strong>` are perhaps one of the most common sources of confusion, causing developers to ask "Should I use `<b>` or `<strong>`? Don't they both do the same thing?"
-
-Not exactly. The `<strong>` element is for content that is of greater importance, while the `<b>` element is used to draw attention to text without indicating that it's more important.
-
-It may help to realize that both are valid and semantic elements in HTML5 and that it's a coincidence that they both have the same default styling (boldface) in most browsers (although some older browsers actually underline `<strong>`).
-
-Each element is meant to be used in certain types of scenarios, and if you want to bold text for decoration, you should instead actually use the CSS `font-weight` property.
-
-The intended meaning or purpose of the enclosed text should be what determines which element you use. Communicating meaning is what semantics are all about.
-
-### em vs strong
-
-While `<em>` is used to change the meaning of a sentence as spoken emphasis does ("I _love carrots_" vs. "I love _carrots_"), `<strong>` is used to give portions of a sentence added importance (e.g., "**Warning**! This is **very dangerous**.") Both `<strong>` and `<em>` can be nested to increase the relative degree of importance or stress emphasis, respectively.
-
-### Example:
-
-**Hope** is a good thing, maybe the best of things and no good thing ever dies.
-
-[Visit here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/strong) to learn more.
-
-<div align="right">
-    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
-</div>
-
-# chapter-03: HTML Entities, Hyperlinks, Images, Audio, Videos
-
-- [HTML Entities](#html-entities)
-- [Hyperlinks](#hyperlinks)
-
-### HTML Entities
+## HTML Entities
 
 Some characters are reserved in HTML. If you use the less than (<) or greater than (>) signs in your text, the browser might mix them with tags.
 Character entities are used to display reserved characters in HTML.
@@ -308,173 +600,299 @@ Character entities are used to display reserved characters in HTML.
 **Note:** Entities names are case-sensitive.
 Here is the [HTML](table.html) and [CSS](table.css) code that generates all the entites listed above.
 
-### Hyperlinks
+## Assignments for Chapter 3
 
-### What is Hyperlinks?
+### Assignment 01
 
-Hyperlinks allow us to link documents to other documents or resources, link to specific parts of documents, or make apps available at a web address. Almost any web content can be converted to a link so that when clicked or otherwise activated the web browser goes to another web address (URL).
+Create a simple HTML page that contains a table to display information about your favorite fruits. The table should have four columns: Fruit Name, Color, Taste, and Rating. Add at least five rows of data to the table.
 
-### HTML Link Syntax
+### Assignment 02
 
-The HTML `<a>` tag defines a hyperlink. It has the following syntax:
+Build an HTML page that showcases a collection of your favorite books, movies, or places to visit. Create an ordered list for books/movies or an unordered list for places to visit. Include at least eight items in the list and add appropriate descriptions for each.
 
-```html
-<a href="url">link text</a>
-```
+### Assignment 03
 
-The most important attribute of the `<a>` element is the **_href_** attribute, which indicates the link's destination.
+Create a webpage that explains the basics of a programming language of your choice (e.g., Python, JavaScript, or HTML). Use the `<code>` tag to highlight and display example code snippets that demonstrate different programming concepts. Include a brief explanation of each code snippet.
 
-The **link text** is the part that will be visible to the reader. Clicking on the link text, will send the reader to the specified URL address.
+### Assignment 04
 
-#### Example:
-
-```html
-<a href="https://www.travelerabdulalim.com/">Visit My Travel Blog</a>
-```
-
-#### Output:
-
-[Visit My Travel Blog](https://www.travelerabdulalim.com/)
-
-### HTML Links - The target Attribute
-
-By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link.
-The **_target_** attribute specifies where to open the linked document.
-The **target** attribute can have one of the following values:
-
-- `_self` : Default. Opens the document in the same window/tab as it was clicked.
-- `_blank` : Opens the document in a new window or tab.
-- `_parent` : Opens the document in the parent frame.
-- `_top` : Opens the document in the full body of the window.
-
-View the [Source Code](hyperlinks.html) to see the application of these attributes.
-
-### HTML Links - The title Attribute
-
-The **title** contains additional information about the link, we can see the **title** text while hovering the link.
-
-Click the [Source Code](hyperlinks.html) to view the application of **title** attribute.
-
-### Absolute URL vs. Relative URL
-
-**Absolute URL:**
-Points to a location defined by its absolute location on the web, including protocol and domain name.For example, if an `index.html` page is uploaded to a directory called `projects` that sits inside the **root** of a web server, and the website's domain is `https://www.example.com`, the page would be available at `https://www.example.com/projects/index.html`
-
-An absolute URL will always point to the same location, no matter where it's used.
-
-**Relative URL:**
-Points to a location that is _relative_ to the file you are linking from, more like what we looked at in the previous section. For example, if we wanted to link from our example file at `https://www.example.com/projects/index.html` to a PDF file in the same directory, the URL would just be the filename — `project-brief.pdf` — no extra information needed. If the PDF was available in a subdirectory inside `projects` called `pdfs`, the relative link would be `pdfs/project-brief.pdf`(the equivalent absolute URL would be `https://www.example.com/projects/pdfs/project-brief.pdf`)
-
-View the [SOURCE CODE](/chapter-03-html-entities-links-images-audio-videos/hyperlinks.html) here.
-
-#### A Real Example of Absolute and Relative URL
-
-Assume we are creating a subsite whose files are in the folder https://paipixel.com/shop.
-
-**1. Absolute URL**
-
-```javascript
-   Link to home page
-   href="https://paipixel.com/shop/"
-
-   Link to the product page
-   href="https://paipixel.com/shop/t-shirts/t-shirt-life-is-good/"
-```
-
-**2. Relative URL**
-
-```javascript
-   Link from home page to product page
-   href="t-shirts/t-shirt-life-is-good/"
-
-   Link from product page to home page
-   href="../../"
-```
-
-**_Note:_** In general, it is considered best-practice to use relative URLs, so that your website will not be bound to the base URL of where it is currently deployed. For example, it will be able to work on localhost, as well as on your public domain, without modifications.
-
-**3. Protocol-relative URL**
-
-```javascript
-Link to home page
-href="//paipixel.com/shop/"
-
-Link to product page
-href="//paipixel.com/shop/t-shirts/t-shirt-life-is-good/"
-```
-
-**_Note_**: It is a good choice if all pages are within the same domain. When you move your site to another domain, you don't have to do a mass replacements of the domain name in the URLs.
-
-**4. Root-relative URL**
-Relative to root folder of the domain.
-
-```javascript
-Link to home page
-href="/shop/"
-
-Link to product page
-href="/shop/t-shirts/t-shirt-life-is-good/"
-```
-
-**_Note:_** It is a good choice if all pages are within the same domain. When you move your site to another domain, you don't have to do a mass replacements of the domain name in the URLs.
-
-**5. Base-relative URL (home-page-relative)**
-The tag `<base>` specifies the base URL, which is automatically added to all relative links and anchors. The base tag does not affect absolute links. As a base URL we'll specify the home page: `<base href="https://paipixel.com/shop/">`.
-
-```javascript
-Link to home page
-href=""
-
-Link to product page
-href="t-shirts/t-shirt-life-is-good/"
-```
-
-**_Note:_** Now you can move your site not only to any domain, but in any subfolder. Just keep in mind that, although URLs look like relative, in fact they are absolute. Especially pay attention to anchors. To navigate within the current page we have to write `href="t-shirts/t-shirt-life-is-good/#comments"` not `href="#comments"`. The latter will throw on home page.
-
-### Absolute URL versus Relative URL (Another Discussion)
-
-```html
-http://www.example.com/en/public/img/logo.gif \__/
-\_____________/\_____________________/ #1 #2 #3
-```
-
-1. scheme/protocol
-2. host
-3. path
-
-A _URL_ is called an absolute _URL_ if it begins with the scheme and scheme specific part (here `//` after `http:`). Anything else is a _relative URL_.
-
-A _URL path_ is called an absolute _URL path_ if it begins with a `/`. Any other _URL path_ is called a _relative URL path_.
-
-Thus:
-
-- `http://www.example.com/en/public/img/logo.gif` is an _absolute URL_,
-- `../../public/img/logo.gif` is a _relative URL_ with a _relative URL path_ and
-- `/en/public/img/logo.gif` is a _relative URL_ with an _absolute URL path_.
-
-Click to view the [Source Code](hyperlinks.html) which demonstrates all the examples above.
-
-### Creating link to target a section/article on the same page
-
-[Click Here](hyperlinks.html) to view the source code.
-
-### Creating link to jump in Top
-
-[Click Here](hyperlinks.html) to view the source code.
-
-**References:**
-
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
-- https://stackoverflow.com/questions/2005079/absolute-vs-relative-urls
-- https://stackoverflow.com/questions/904046/absolute-urls-relative-urls-and
-- https://www.w3schools.com/html/html_links.asp
-- https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+Develop an HTML page that contains text about a foreign country or city. Use HTML entities to represent special characters, currency symbols, or other symbols that are relevant to the location you're describing. Ensure that the entities are accurately used throughout the text.
 
 <div align="right">
-    <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
+    <b><a href="#learn-html-and-css-in-30-chapters">↥ Go to Top</a></b>
 </div>
 
-# chapter-11: CSS Position, Z-index, Overflow
+# Chapter-04: HTML Symbols, Emojis, Charsets and Forms
+
+- [HTML Symbols](#html-symbols)
+- [Some Mathematical Symbols](#some-mathematical-symbols)
+- [Some Greek Letters](#some-greek-letters)
+- [Some Other Entities Supported by HTML](#some-other-entities-supported-by-html)
+- [HTML Emojis](#html-emojis)
+  - [Some Emoji Symbols in UTF-8](#some-emoji-symbols-in-utf-8)
+- [HTML Charsets](#html-charsets)
+  - [Comparison Between Different Charsets](#comparison-between-different-charsets)
+- [HTML Forms](#html-forms)
+- [Assignment for Chapter-04](#assignment-for-chapter-04)
+
+## HTML Symbols
+
+### Some Mathematical Symbols
+
+![Some Mathematical Symbols](./chapter-04/images/1.png)
+
+### Some Greek Letters
+
+![Some Greek Letters](./chapter-04/images/2.png)
+
+### Some Other Entities Supported by HTML
+
+![Some Other Entities Supported by HTML](./chapter-04/images/3.png)
+
+## HTML Emojis
+
+- Emoji কে Image অথবা Icon এর মতো মনে হলেও, Emoji আসলে UTF-8 Character set এর Characters/Letters.
+- পৃথিবীতে যত Characters এবং Symbols আছে মোটামুটি সব এই UTF-8 Character set এ বিদ্যমান।
+- HTML Page এ সব ধরনের Characters এবং Symbols প্রদর্শন করানোর জন্য অবশ্যই আমাদের `<meta>` ট্যাগ এর মধ্যে `charset: "UTF-8"` দিতে হবে। অর্থাৎ `<meta charset="UTF-8">` এই ফরমেটে ট্যাগটা ব্যবহার করতে হবে।
+- অনেক UTF-8 Characters আমাদের Keyboard দিয়ে Type করা যায় না (যেমন কোন Emoji), সেক্ষেত্রে আমাদের Entity Number ব্যবহার করতে হয়।
+- যেমনঃ `<p>&#128516;</p>` এই কোডটি 😄 এই Emoji প্রদর্শন করে। আবার `<p>&#65;</p>` এই কোডটি **A** প্রদর্শন করে।
+- যেহেতু A, B, C এর মতো Emoji-ও একেকটি Character, তাই Character এর ক্ষেত্রে আমরা যেরকম CSS কোড ব্যবহার করি একইভাবে Emoji এর খেত্রেও ব্যবহার করা হয়। যেমন ফন্ট সাইজ বড় করা, কালার দেয়া ইত্যাদি।
+
+### Some Emoji Symbols in UTF-8
+
+![Some Emoji Symbols in UTF-8](./chapter-04/images/4.png)
+
+## HTML Charsets
+
+- HTML Page কে সঠিকভাবে প্রদর্শন করার জন্য Web Browser কে অবশ্যই বলে দিতে হবে এই পেইজে কোন Charsets ব্যবহার করা হচ্ছে।
+  এইটা আমরা `<meta charset="UTF-8">` এই ট্যাগ দ্বারা বলে দিতে পারি।
+
+- ASCII(American Standard Code for Information Interchange) হল প্রাচীনতম অক্ষর এনকোডিং মানগুলির মধ্যে একটি এবং এটি 1960-এর দশকে বিকশিত হয়েছিল। ASCII প্রতিটি অক্ষরকে উপস্থাপন করতে একটি 7-বিট বাইনারি কোড ব্যবহার করে, যা মোট 128টি সম্ভাব্য অক্ষরের জন্য অনুমতি দেয়। 2^7 = 128
+- ASCII-তে, প্রতিটি অক্ষরকে 0 থেকে 127 পর্যন্ত একটি Unique সংখ্যা দ্বারা প্রকাশ করা হয়। উদাহরণস্বরূপ: **_A_** অক্ষরটিকে 65 হিসাবে প্রকাশ করা হয়। **_B_** অক্ষরটিকে 66 হিসাবে প্রকাশ করা হয়।
+- অন্যদিকে UTF-8 হল একটি মডার্ন ক্যারেক্টার এনকোডিং যা ইউনিকোড স্ট্যান্ডার্ডের অংশ, যার লক্ষ্য বিশ্বব্যাপী ব্যবহৃত বিভিন্ন ভাষা এবং চিহ্নের অক্ষরগুলির একটি বিস্তৃত পরিসরকে অন্তর্ভুক্ত করা।
+- UTF-8 তার প্রতিটা Character কে এক থেকে চার বাইট সংখ্যা দ্বারা Represent করে।
+- সমস্ত ASCII Character sets UTF-8 এ বিদ্যমান। অর্থাৎ বলতে পারি, সব ASCII ই UTF-8 কিন্তু সব UTF-8 ASCII নয়।
+
+### Comparison Between Different Charsets
+
+### The ASCII Character Set
+
+- ASCII Control Characters এর জন্য 0 থেকে 31 (এবং 127) পর্যন্ত মান ব্যবহার করে।
+- ASCII Letters, Digits এবং Symbol এর জন্য 32 থেকে 126 পর্যন্ত মান ব্যবহার করে।
+- ASCII 128 থেকে 255 পর্যন্ত মান ব্যবহার করে না।
+
+### The ANSI Character Set
+
+- ANSI 0 থেকে 127 পর্যন্ত মানের জন্য ASCII-এর অনুরূপ।
+- ANSI এর 128 থেকে 159 পর্যন্ত মানের জন্য অক্ষরগুলির একটি proprietary সেট রয়েছে৷
+- ANSI 160 থেকে 255 পর্যন্ত মানের জন্য UTF-8-এর অনুরূপ।
+
+### The UTF-8 Character Set
+
+- UTF-8 0 থেকে 127 পর্যন্ত মানের জন্য ASCII-এর অনুরূপ।
+- UTF-8 128 থেকে 159 পর্যন্ত মান ব্যবহার করে না।
+- UTF-8 160 থেকে 255 পর্যন্ত মানের জন্য ANSI এবং 8859-1 উভয়ের অনুরূপ।
+- UTF-8 Character Set এ 10000 এর বেশি Characters আছে।
+
+## HTML Form
+
+| **No** | Element                                         | Role/Usage                                                                                                                                                         |
+| ------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1**  | `<form>`                                        | Form এর Container হিসেবে ব্যবহার করা হয়।                                                                                                                           |
+| **2**  | `<input type="text">`                           | Single line text input field এর জন্য।                                                                                                                              |
+| **3**  | `<input type="radio">`                          | Radio Button তৈরি করার জন্য                                                                                                                                        |
+| **4**  | `<input type="checkbox">`                       | Checkbox তৈরি করার জন্য।                                                                                                                                           |
+| **5**  | `<input type="submit">`                         | Submit Button তৈরি করার জন্য।                                                                                                                                      |
+| **6**  | `<input type="button">`                         | Clickable Button তৈরি করার জন্য।                                                                                                                                   |
+| **7**  | `<label>`                                       | Form Element এর Label দেয়ার জন্য।                                                                                                                                  |
+| **8**  | `<select>`                                      | Drop-down List তৈরি করার জন্য।                                                                                                                                     |
+| **9**  | `<option>`                                      | Drop down List এর Option দেয়ার জন্য।                                                                                                                               |
+| **10** | `<select size="3">`                             | Size Attribute এ যে সংখ্যা দেয়া হবে, ততগুলো Items Visible হবে Drop-down list এর।                                                                                   |
+| **11** | `<select size="4" multiple>`                    | Multiple Attribute এর মাধ্যমে Drop-down List থেকে Multiple Items Select করা যায়। (Hold down the Ctrl (windows) / Command (Mac) button to select multiple options.) |
+| **12** | `<textarea name="message" rows="10" cols="30">` | Multi-line Text field এর জন্য।                                                                                                                                     |
+| **13** | `<button>`                                      | Clickable Button তৈরি করার জন্য।                                                                                                                                   |
+| **14** | `<fieldset>` and `<legend>`                     | একটা ফর্ম এ Related data নিয়ে ফর্ম গ্রুপ তৈরি করার জন্য Fieldset Element টি ব্যবহার করা হয় এবং Legend Element ঐ গ্রুপের Caption দেবার জন্য ব্যবহার করা হয়।         |
+| **15** | `<datalist id="abc">`                           | Input field এ Pre-defined কিছু Data সেট করার জন্য।                                                                                                                 |
+
+## Assignment for Chapter-04
+
+### Assignment 01
+
+![assignment 1](./chapter-04/images/5.png)
+
+<div align="right">
+    <b><a href="#learn-html-and-css-in-30-chapters">↥ Go to Top</a></b>
+</div>
+
+# Chapter-05: HTML Canvas, SVG and HTML Media
+
+- JavaScript Course শেষ করে আমরা এই Chapter শিখবো ইনশাআল্লাহ্‌। কারন এই Chapter এর Contents ভালো করে বুঝতে JavaScript এর Concept লাগবে।
+
+# Chapter-06: Introduction to CSS, CSS Selectors, Ways of Styling and Color
+
+- [Introduction to CSS](#introduction-to-css)
+- [CSS Syntax](#css-syntax)
+- [Ways of Styling HTML Elements](#ways-of-styling-html-elements)
+- [CSS Color](#css-color)
+  - [Named Color](#named-color)
+  - [RGB Color](#rgb-color)
+  - [What is Additive Color Model and How it Works](#what-is-additive-color-model-and-how-it-works)
+  - [RGBA Color](#rgba-color)
+  - [HEX Color](#hex-color)
+  - [HSL Color](#hsl-color)
+- [Assignments for Chapter 06](#assignment-for-chapter-06)
+
+## Introduction to CSS
+
+- CSS এর পূর্ণরূপ CCascading Style Sheets. HTML দিয়ে একটি Website এর Structure গঠন করা হয়, অপরদিকে CSS দিয়ে Website কে Style বা Design করা হয়।
+
+## CSS Syntax
+
+![CSS Styntax](./chapter-05/images/1.png)
+
+Photo Courtesy: W3 School
+
+## CSS Selector
+
+- CSS Selector HTML Elements কে Select করে Style করে। তারমানে, CSS Selector এর কাজ হলো HTML Elements কে Select করা
+
+CSS Selector সম্পর্কে [_Chapter-14_](#chapter-14-css-selectors) এ বিস্তারিত আলচনা করা হয়েছে।
+
+আমরা এখানে শুধুমাত্র Simple Selector নিয়ে আলোচনা করবো। ঐসব Selector কে Simple Selector বলে যারা HTML Elements কে Name, ID এবং Class দ্বারা Select করে।
+
+## Ways of Styling HTML Elements
+
+- HTML Elements কে ৩ ভাবে Style করা যায়।
+  - Inline CSS
+  - Internal CSS
+  - External CSS
+
+## CSS Color
+
+- CSS এ বিভিন্নভাবে Color দেয়া যায়। যেমনঃ
+  - **Named Color**
+  - **RGB**
+  - **HEX**
+  - **HSL**
+  - **RGBA**
+  - **HSLA**
+
+### Named Color
+
+- HTML/CSS ১৪৭ টা Named Color Support করে।
+- কিছু বহুল ব্যবহ্রত Named Colors হলোঃ red, green, blue, orange, tomato ইত্যাদি।
+
+### RGB Color
+
+- RGB(Red, Green, Blue) হল একটি কালার মডেল যা CSS (ক্যাসকেডিং স্টাইল শীট) সহ বিভিন্ন ডিজিটাল সিস্টেমে ব্যবহৃত হয়।
+- CSS এ RGB Color Model যেভাবে কাজ করেঃ
+  - **Color Component Values:** RGB মডেলে, প্রতিটি রঙ (লাল, সবুজ এবং নীল) 0 থেকে 255 পর্যন্ত একটি সাংখ্যিক মান দ্বারা উপস্থাপিত হয়। এই মানগুলি প্রতিটি রঙের উপাদানের তীব্রতা বা উজ্জ্বলতা নির্ধারণ করে। 0 এর মান মানে কোন তীব্রতা নেই (কোনও রঙ নেই), যখন 255 মান সেই রঙের জন্য সর্বোচ্চ তীব্রতার প্রতিনিধিত্ব করে।
+  - **Combining Color:** এই তিনটা কালারের Intensity যোগ করে নতুন একটা কালার তৈরি করা হয়।
+- CSS Syntax: `color: rgb(redValue, greenValue, blueValue);`
+- Examples:
+
+```css
+color: rgb(255, 0, 0); /* Pure red */
+color: rgb(0, 255, 0); /* Pure green */
+color: rgb(0, 0, 255); /* Pure blue */
+color: rgb(128, 128, 0); /* Medium intensity yellow-green */
+color: rgb(255, 127, 80); /* Coral color */
+```
+
+- RGB একটি Additive Color Model.
+
+## What is Additive Color Model and How it Works
+
+- RGB (লাল, সবুজ, নীল) রঙের মডেলটিকে একটি Additive কালার মডেল হিসাবে বিবেচনা করা হয় কারণ এটি বিভিন্ন রঙ তৈরি করতে আলোর বিভিন্ন তীব্রতা যোগ করে কাজ করে। এটি Printer এ ব্যবহৃত CMY(K) মডেলের মতো Substractive মডেলের বিপরীতে, যাতে পছন্দসই ফলাফল অর্জনের জন্য সাদা আলো থেকে রং বিয়োগ করা হয়।
+
+- RGB Model যেভাবে কাজ করেঃ
+  - **Color as Light:** RGB মডেলের প্রেক্ষাপটে, কালারকে সরাসরি উৎস থেকে নির্গত আলোর বিভিন্ন তীব্রতা হিসাবে উপস্থাপন করা হয়, যেমন একটি কম্পিউটার স্ক্রীন বা একটি ডিজিটাল ডিসপ্লে। একটি স্ক্রিনের প্রতিটি পিক্সেল সাবপিক্সেল নামক ক্ষুদ্র স্বতন্ত্র একক দ্বারা গঠিত, যা লাল, সবুজ এবং নীল আলো নির্গত করে।
+  - **Primary Colors:** RGB মডেলে, লাল, সবুজ এবং নীলকে প্রাথমিক রং হিসেবে বিবেচনা করা হয়। এই প্রাথমিক রংগুলি হল ভিত্তি যার উপর অন্যান্য সমস্ত রং তৈরি করা হয়। যখন তিনটি প্রাথমিক রং তাদের সম্পূর্ণ তীব্রতায় নির্গত হয়, তখন তারা একত্রিত হয়ে সাদা আলো তৈরি করে। এটি একটি সাদা পৃষ্ঠের উপর লাল, সবুজ এবং নীল আলো জ্বলজ্বল করার অনুরূপ।
+  - **Additive Process:** এখানে মূল ধারণাটি হল যে আপনি যখন আরজিবি মডেলে রং মিশ্রিত করেন, আপনি আসলে মিশ্রণে আরও **আলো** যোগ করছেন। আপনি যখন একটি রঙের উপাদানের তীব্রতা বাড়ান, আপনি সেই রঙের তরঙ্গদৈর্ঘ্যে নির্গত আলোর পরিমাণ বাড়াচ্ছেন। যখন একাধিক রঙ একই সাথে নির্গত হয়, তখন তাদের আলোগুলি ওভারল্যাপ হয় এবং ওভারল্যাপের ক্ষেত্রে মোট আলোর পরিমাণ একসঙ্গে যোগ করা হয়।
+  - যখন কোন আলো নির্গত হয় না, ফলাফল কালো হয়। অন্য কথায়, কালো হল আলোর সব রঙের অনুপস্থিতি। বিপরীতভাবে, যখন সমস্ত প্রাথমিক রঙ সম্পূর্ণ তীব্রতায় নির্গত হয়, তখন তারা সাদা আলো তৈরি করে।
+- সংক্ষেপে, RGB কালার মডেলটি Additive, কারণ এতে রং তৈরি করতে আলো নির্গত করা জড়িত। প্রতিটি প্রাথমিক রঙের তীব্রতা সামঞ্জস্য করে আপনি রঙের _বিস্তৃত বর্ণালী_ অর্জন করতে বিভিন্ন তরঙ্গদৈর্ঘ্যের আলোর বিভিন্ন পরিমাণ যোগ করতে পারেন। এই কারণেই RGB হল ডিজিটাল ডিসপ্লেতে ব্যবহৃত Primary Color মডেল।
+
+### RGBA Color
+
+- RGBA কালার মডেল হল RGB (লাল, সবুজ, নীল) কালার মডেলের একটি **এক্সটেনশন** যা সাধারণত ডিজিটাল ডিসপ্লে এবং ওয়েব ডিজাইনে ব্যবহৃত হয়। RGB এবং RGBA-এর মধ্যে পার্থক্য হল RGBA-এ "Alpha" নামক একটি অতিরিক্ত উপাদান রয়েছে যা একটি রঙের স্বচ্ছতা(transparency) বা অস্বচ্ছতাকে(opacity) প্রতিনিধিত্ব করে। RGBA-তে "A" এর অর্থ হল "Alpha".
+- RGBA কালার মডেলের আলফা মান 0 এবং 1 এর মধ্যে দশমিক হিসাবে নির্দিষ্ট করা হয়েছে, যেখানে 0 সম্পূর্ণ স্বচ্ছতা (সম্পূর্ণ স্বচ্ছ) এবং 1 সম্পূর্ণ অস্বচ্ছতা (সম্পূর্ণ অস্বচ্ছ) প্রতিনিধিত্ব করে।
+- Syntax: color: `rgba(redValue, greenValue, blueValue, alphaValue);`
+- Example:
+
+```css
+color: rgba(255, 0, 0, 0.5); /* Semi-transparent red */
+color: rgba(0, 255, 0, 0.75); /* Semi-transparent green */
+color: rgba(0, 0, 255, 0.25); /* Semi-transparent blue */
+```
+
+### Hex Color
+
+- Hexadecimal Color-ও আসলে একটা RGB Color মডেল। শুধু Syntax টা ভিন্ন।
+- Syntax: `color: #RRGGBB`
+- আরজিবি কালার মডেলের মতো, হেক্স কালার মডেলও Color তৈরি করতে প্রাথমিক রং লাল, সবুজ এবং নীল ব্যবহার করে। প্রতিটি রঙের উপাদানের তীব্রতা একটি _দুই-অঙ্কের হেক্সাডেসিমেল সংখ্যা_ দ্বারা উপস্থাপিত হয়, যা 00 থেকে FF পর্যন্ত হতে পারে। মোট, প্রতিটি রঙের উপাদানের জন্য 256টি সম্ভাব্য মান রয়েছে, ডেসিমেলে 0 থেকে 255 পর্যন্ত।
+- হেক্সাডেসিমাল হল একটি 16-base নাম্বারিং সিস্টেম, যার মানে এটি মানগুলি উপস্থাপন করতে 16টি Unique Symbol (0-9 এবং A-F) ব্যবহার করে। 10 থেকে 15 সংখ্যাগুলি A থেকে F অক্ষর দ্বারা প্রতিনিধিত্ব করা হয়।
+
+### HSL Color
+
+- HSL stands for hue, saturation, and lightness.
+- Sytax: `hsl(hue, saturation, lightness)`
+- 360 Degree Color Wheel এ Hue Color এর Position নির্দেশ করে। এটি রঙের ধরনকে প্রতিনিধিত্ব করে, যেমন লাল, সবুজ, নীল, ইত্যাদি। Color Wheel এ 0° লাল, 120° সবুজ এবং 240° নীলকে প্রতিনিধিত্ব করে।
+- স্যাচুরেশন বলতে রঙের তীব্রতা(Intensity) বা বিশুদ্ধতা(Purity) বোঝায়। উচ্চ স্যাচুরেশনের একটি রঙ প্রাণবন্ত এবং সমৃদ্ধ, অন্যদিকে কম স্যাচুরেশনের একটি রঙ Muted or Washed out এর মতো মনে হয়। স্যাচুরেশন সাধারণত শতাংশ হিসাবে উপস্থাপিত হয়, 0% সম্পূর্ণ Grayscale (No Color) এবং 100% সম্পূর্ণরূপে স্যাচুরেটেড (Vivid Color)।
+- Lightness determines how light or dark the color appears. 0% Lightness মানে সম্পূর্ণ কালো, 100% Lightness মানে সম্পূর্ণ সাদা। Intermediate values create the range of shades in between.
+- HSL Color মডেলে খুব সহজে Color Variation তৈরি করা যায় rathe than RGB Model. উদাহরণস্বরূপ, যদি আপনি একটি বেস রঙের বৈচিত্র তৈরি করতে চান, আপনি Hue ঠিক রেখে এর স্যাচুরেশন এবং Lightness পরিবর্তন করতে পারেন।
+- একটা কালার আরেকটা কালারের সাথে কিভাবে সম্পর্কযুক্ত তা HSL Color মডেলে খুব সহজে বোঝা যায়, rather than RGB Model.
+
+![HSL Color Model](./chapter-06/images/1.png)
+
+Image Courtesy: FreeCodeCamp
+
+## Assignments for Chapter 06
+
+### Assignment 01
+
+Create a CSS rule that sets the background color of a paragraph element to the color represented by RGB (R: 255, G: 150, B: 0)
+
+### Assignment 02
+
+Convert the RGB color (R: 128, G: 64, B: 192) to its corresponding hexadecimal notation.
+
+### Assignment 03
+
+Create a CSS rule that styles a heading with a background color using the HSL color (Hue: 30°, Saturation: 80%, Lightness: 70%)
+
+### Assignment 04
+
+Convert the HSL color (Hue: 120°, Saturation: 100%, Lightness: 50%) to its corresponding RGB values.
+
+### Assignment 05
+
+Compare and contrast the RGB and HSL color models in terms of their benefits and usage scenarios in web design.
+
+### Assignment 06
+
+Create a CSS class that applies a background color using a shade of green in the HSL model (Hue: 120°, Saturation: 70%, Lightness: 50%).
+
+### Assignment 07
+
+Combine the RGB color (R: 255, G: 0, B: 0) and the HSL color (Hue: 240°, Saturation: 100%, Lightness: 50%) to create a new color. Describe the resulting color and provide the RGB values.
+
+### Assignment 08
+
+Adjust the lightness of the base color (Hue: 60°, Saturation: 90%, Lightness: 40%) to create a lighter and a darker variation. Provide the new HSL values for both variations.
+
+### Assignment 09
+
+Convert the RGB color (R: 150, G: 75, B: 200) to its corresponding HSL values.
+
+### Assignment 10
+
+Create a CSS rule that applies a text color using the RGB color (R: 255, G: 0, B: 150) and a background color using the HSL color (Hue: 30°, Saturation: 80%, Lightness: 60%).
+
+<div align="right">
+    <b><a href="#learn-html-and-css-in-30-chapters">↥ Go to Top</a></b>
+</div>
+
+# Chapter-11: CSS Position, Z-index, Overflow
 
 - [CSS Position](#css-position)
   - [Position Property Values](#position-property-values)
@@ -493,13 +911,13 @@ Click to view the [Source Code](hyperlinks.html) which demonstrates all the exam
 
 ### Position Property Values
 
-| **Value** |                                                                                                                                                                                                **Description**                                                                                                                                                                                                 |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  static   |                                 Default Value. অর্থাৎ কোন Element এর যদি কোন position property না দেয়া হয়, তাহলে by default, static সেট হয়ে যায়। এই Property এর বৈশিষ্ট্য হলো, element টি যে order এ আছে, সেই order এ document এ render এবং position সেট হবে। কোন Element এর Position Static থাকা অবস্থায় ওই Element এ Left, Right, Top, Bottom এর Property গুলো কাজ করবে না।                                  |
-| absolute  |                                                                       The element is positioned relative to its first positioned (not static) ancestor element. অর্থাৎ position absolute একা একা কাজ করতে পারে না, তাকে কোন একটা Parent Element এর Under এ থাকতে হয়, এবং ওই Parent Element এর Position থেকে সে তার Position Change করে।                                                                        |
-|   fixed   |                                                                                      The element is positioned relative to the browser window. এবং element টি একেবারে Fixed থাকে, আমার Document এ হাজার হাজার লাইন Text ও থাকে, তাহলেও fixed element তার Position কোনমতেও Change করবে না। একেবারে ঘারত্যারা যাকে বলে ! :D                                                                                      |
-| relative  |                                   The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's left position. অর্থাৎ Relative Element স্বাধীন। তাকে কোন Parent Element এর Under এ থাকতে হবে বিষয় টা সেরকম নয়। যখনি কোন Element এর Property Relative করা হবে, তখন ওই Element এ Left, Right, Top, Down Properties গুলো কাজ করবে।                                    |
-|  sticky   | যদি element এ top: 100px; দেয়া হয়, তাহলে এই element যে Position এ Normally থাকার কথা সেই Position এই থাকবে, কিন্তু Users Scroll করে ওই Position এর নিচে চলে যাবে, তখন এই Sticky element ও সাথে সাথে নিচে চলে যাবে। আর যখন নিচে যাবে তখন top থেকে 100px নিচে থাকবে। Fixed আর Sticky কখনই এক নয়। Fixed হলে element টি তার Normal Position এ না থেকে তার Parent Element থেকে Left, Right, Top, Bottom Count করবে। |
+| **Value** |                                                                                                                                                                                                          **Description**                                                                                                                                                                                                          |
+| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  static   |                                           Default Value. অর্থাৎ কোন Element এর যদি কোন position property না দেয়া হয়, তাহলে by default, static সেট হয়ে যায়। এই Property এর বৈশিষ্ট্য হলো, element টি যে order এ আছে, সেই order এ document এ render এবং position সেট হবে। কোন Element এর Position Static থাকা অবস্থায় ওই Element এ Left, Right, Top, Bottom এর Property গুলো কাজ করবে না।                                           |
+| absolute  | The element is positioned relative to its first positioned (not static) ancestor element. অর্থাৎ position absolute একা একা কাজ করতে পারে না, তাকে কোন একটা Positioned Ancestor Element অর্থাৎ এমন একটা Ancestor এর Under এ থাকতে হয় যার Static বাদে অন্য যেকোনো Position Property আছে, এবং ওই Ancestor Element এর Position থেকে সে তার Position Change করে। যদি এমন কোন Ancestor Element না থাকে, তাহলে Body এর সাপেক্ষে মুভ করে। |
+|   fixed   |                                                                                               The element is positioned relative to the browser window. এবং element টি একেবারে Fixed থাকে, আমার Document এ হাজার হাজার লাইন Text ও থাকে, তাহলেও fixed element তার Position কোনমতেও Change করবে না। একেবারে ঘারত্যারা যাকে বলে ! :D                                                                                                |
+| relative  |                                             The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's left position. অর্থাৎ Relative Element স্বাধীন। তাকে কোন Parent Element এর Under এ থাকতে হবে বিষয় টা সেরকম নয়। যখনি কোন Element এর Property Relative করা হবে, তখন ওই Element এ Left, Right, Top, Down Properties গুলো কাজ করবে।                                             |
+|  sticky   |          যদি element এ top: 100px; দেয়া হয়, তাহলে এই element যে Position এ Normally থাকার কথা সেই Position এই থাকবে, কিন্তু Users Scroll করে ওই Position এর নিচে চলে যাবে, তখন এই Sticky element ও সাথে সাথে নিচে চলে যাবে। আর যখন নিচে যাবে তখন top থেকে 100px নিচে থাকবে। Fixed আর Sticky কখনই এক নয়। Fixed হলে element টি তার Normal Position এ না থেকে তার Parent Element থেকে Left, Right, Top, Bottom Count করবে।           |
 
 ### Static
 
@@ -577,22 +995,26 @@ The element is positioned relative to its normal position, so "left:20px" adds 2
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
 </div>
 
-# chapter-12: CSS Float, Display, Alignment
+# Chapter-12: CSS Float, Display, Alignment
 
 - [CSS Float](#css-float-property)
   - [CSS Float Property](#css-float-property)
+  - [CSS Float Property কেন ব্যবহার করা হয়?](#css-float-property-কেন-ব্যবহার-করা-হয়)
+  - [কি ঘটে যখন কোন Element এ Float Property থাকে?](#কি-ঘটে-যখন-কোন-element-এ-float-property-থাকে)
+  - [Float এবং Position Absolute এর Document Flow তুলনা](#float-এবং-position-absolute-এর-document-flow-তুলনা)
   - [Example of CSS Float Property (Scource Codes)](#example-of-css-float-property-source-codes)
   - [Example of CSS Float Property (Screenshot)](#example-of-css-float-property-sreenshot)
   - [Another Example of CSS Float Property](#another-example-of-css-float-property)
+  - [Float যেসব প্রবলেম তৈরি করে](#float-যেসব-প্রবলেম-তৈরি-করে)
   - [Clear Property](#clear-property)
-  - [Example of Clear Property](#example-of-css-clear-property)
+  - [Example of Clearfix](#example-of-clearfix)
   - [Clearfix Hack](#clearfix-hack)
-  - [Example of CSS Clearfix Hack](#example-of-css-clear-property)
 - [CSS Display](#css-display-property)
-  - [Basic Concepts of Inline-block](#basic-concepts-of-inline-block)
+  - [Concept of Inline Elements](#concepts-of-inline-element)
   - [Inline, Block and Inline-block Examples](#inline-block-and-inline-block-examples)
 - [CSS Alignment of Elements, Texts and Images](#css-alignment-of-elements-texts-and-images)
-  - [How to Center A Block Element](#how-to-center-a-block-element)
+  - [How to Horizontally Center A Block Element](#how-to-horizontally-center-a-block-element)
+  - [How to Horizontally & Vertically Center a Block Element](#how-to-horizontally--vertically-center-a-block-element)
   - [How to Center Texts Inside An Element](#how-to-center-texts-inside-an-element)
   - [How to Center an Image](#how-to-center-an-image)
   - [How to Align an Element - Using Position](#how-to-align-an-element---using-position)
@@ -600,71 +1022,189 @@ The element is positioned relative to its normal position, so "left:20px" adds 2
 
 ## CSS Float Property
 
-**Note: CSS Float Property is now deprecated in modern programming concept.**
+**Note: CSS Float Property is now deprecated in modern web-programming concept.**
 
-The `float` property is used for positioning and formatting content e.g. let an image float left to the text in a container. The float property can have one of the following values:
+CSS `float` property কোন একটা Element কে তাঁর Container এর ডানে বা বামে নিয়ে যায়। এবং Text বা অন্যান্য Elements যাতে ঐ Floated Element কে Wrap করতে পারে বা জড়িয়ে ধরে থাকতে পারে সেই Permission দেয়।
+
+**Float Value**
 
 - `left` - The element floats to the left of its container.
 - `right` - The element floats to the right of its container.
 - `none` - This is default. The element does not float (will be displayed just where it occurs in the text).
 - `inherit` - The element inherits the float value of its parent.
 
-The simplest use of `float` property is to to wrap text around images.
+### CSS Float Property কেন ব্যবহার করা হয়?
+
+- সাধারণত একটা Image এর চারপাশে Text কে Wrap করার জন্য।
+- কোন Inline Element কে Text বা অন্য কোন Element দিয়ে Wrap করার জন্য।
+- Horizontally কোন Element এর Position Left থেকে Right বা Right থেকে Left করার জন্য।
+- Horizontally অনেকগুলো Elements কে একটার পর একটা সাঁজাতে।
+
+### কি ঘটে যখন কোন Element এ Float Property থাকে?
+
+- Normal Document Flow থেকে উঠে যায় এবং এই Element তার Parent এ কোন Height দেয় না। অর্থাৎ আমরা জানি, Parent এর Height হলো Childs এর Height এর যোগফল। কিন্তু Floated Element এর Height Parent এ যোগ হয় না।
+- Element টি যদি একটি Block Element হয় এবং Width দেয়া না হয় তাহলে আমরা জানি সেটি by default width 100% নেয়। কিন্তু ঐ Element এ যদি Float Property থাকে, তাহলে by default কোন Width থাকে না। সুতরাং কোন Block Element এ Float use করলে অবশ্যই ঐ Element এ width property দেয়া বাধ্যতামূলক।
+- Element টি যদি Block-ও হয়, তবুও Inline এর মতই আচরণ করে।
+
+### Float এবং Position Absolute এর Document Flow তুলনা
+
+কোন Element এ যখন Float বা Position Absolute Property ব্যবহার করা হয়, তখন উভয় ক্ষেত্রেই ঐ Element টি Webpage এর Normal Document Flow থেকে উঠে যায়। তবে Float এবং Position Absolute এর ক্ষেত্রে Element টির Document Flow থেকে উঠে যাওয়ার সামান্য পার্থক্য আছে। কোন Element এ যখন Float ব্যবহার করা হয়, তখন সে Normal Document Flow থেকে 100% উঠে যায় না। এটা আমরা বুঝতে পারি যখন ঠিক তাঁর পরে কোন text থাকে এবং ঐ text তাঁকে Wrap করে বা জড়িয়ে ধরে থাকে কিন্তু Overlap করে না।
+অপরদিকে কোন Element এ Position Absolute ব্যবহার করলে ঐ Element টি সম্পূর্ণরূপে Normal Document Flow থেকে উঠে যায় এবং তাঁর পরে কোন Element থাকলে সেটা তার নিচে চলে আসে অর্থাৎ Overlap করে।
+
+Floated Element Example:
+![floated](./chapter-12-css-float-display-align/images/2.png)
+
+Absolute Positioned Element:
+![abs](./chapter-12-css-float-display-align/images/3.png)
 
 ### Example of CSS Float Property (Screenshot)
 
 ![float example](./chapter-12-css-float-display-align/images/1.png)
 
+Another Example:
+![float example](./chapter-12-css-float-display-align/images/4.png)
+
 ### Example of CSS Float Property (Source Codes)
 
-**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/zYjvzXQ)**
+**&#9885; [Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/LYgmJZv)**
 
 ### Another Example of CSS Float Property
 
-**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmVVJ)**
+**&#9885; [Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/bGmMxwg)**
+
+### Float যেসব প্রবলেম তৈরি করে
+
+কোন একটা Element কে যখন Float property দেয়া হয়, তখন ঐ Element টি তার নিচের সব Elements গুলোকে Affect করে। ধরি, X একটি Element. আমরা যদি চাই ঐ Floated Element টি X element এবং X element এর নিচে যত Element আছে তার উপর কোন প্রভাব ফেলতে পারবে না, তাহলে X Element এ Clear property ব্যবহার করতে হবে। Float এর এই প্রবলেম এর সমাধান হলো Clear Property.
 
 ### Clear Property
 
-When we use the `float` property, and we want the next element below (not on right or left), we will have to use the `clear` property.
-The `clear` property specifies what should happen with the element that is next to a floating element.
+কোন একটা Floated Element এর পাশের Element টির কি হবে সেটা নির্ধারণ করে Clear Property.
+
 The `clear` property can have one of the following values:
 
 - This is default. `none` - The element is not pushed below left or right floated elements.
-- `left` - The element is pushed below left floated elements.
+- `left` - The element is pushed below left floated elements. অর্থাৎ ধরি A element একটি Floated Element, যার Property `float: left` দেয়া। ঠিক তার নিচে আছে B element, যার property `clear: left` দেয়া। তাহলে এই B element টি A element এর নিচে pushed হবে। B element এ যদি `clear: left` না দেয়া হতো, তাহলে B element টি A element এর কারনে Unexpected bahavior করতো।
 - `right` - The element is pushed below right floated elements.
 - `both` - The element is pushed below both left and right floated elements. This is safe to use when you are in a confusion between `left` and 'right'.
 - `inherit` - The element inherits the clear value from its parent.
 
 ### Clearfix Hack
 
-If a floated element is taller than the containing element, it will "overflow" outside of its container. We can then add a clearfix hack to solve this problem.
-The overflow: auto clearfix works well as long as you are able to keep control of your margins and padding (else you might see scrollbars). The new, modern clearfix hack however, is safer to use, and the following code is used for most webpages.
+**Clearfix Hack কেন ব্যবহার করবো?**
 
-### Example of CSS Clear Property
+- একটা Floated Element যদি তার Container এর চেয়ে বড় হয়, তাহলে এটি Overflow করবে। এই প্রবলেম সমাধান করার জন্য।
+- একটি Element Floated থাকার কারনে তার নিচের Element এ যেন প্রভাব ফেলতে না পারে।
 
-**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/QWrjMJP)**
+**Clearfix কিভাবে তৈরি করা হয়**
+
+- Floated Element এর Container/Parent Element এর `::after` Pseudo Element তৈরি করতে হয়। এই Pseudo Element এ নিচের Code টি বসালে এটি Clearfix হিসেবে কাজ করবে।
+
+```css
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+```
+
+**Note: অনেক ক্ষেত্রে আমাদের `display: block`-ও ব্যবহার করা লাগতে পারে, এটা Requirement এর উপর নির্ভর করবে।**
+
+### Example of Clearfix
+
+**&#9885; [Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/mdzLGOJ)**
 
 ## CSS Display Property
 
-### Basic Concepts of Inline-block
+### Concepts of Inline Element
 
-- Compared to `display: inline`, the major difference is that `display: inline-block` allows to set a width and height on the element.
-- Also, with `display: inline-block`, the top and bottom margins/paddings are respected, but with `display: inline` they are not.
-- Compared to `display: block`, the major difference is that `display: inline-block` does not add a line-break after the element, so the element can sit next to other elements.
-- 'display: inline' Property দিলে তখন height ও width property দিলেও কাজ করবে না। 'display: inline-block' ও 'display: block' Property তে height ও width property কাজ করবে। তবে, যখন 'display: block' দেয়া হবে তখন ওই Element টি পুরো লাইন জুরে জায়গা নিবে। নিচের উদাহরণ টি দেখলেই বিষয়টি পরিষ্কার হয়ে যাবে।
-
-The following example shows the different behavior of `display: inline`, `display: inline-block` and `display: block`:
+- Inline Elements এ Width এবং Height কাজ করে না। এমনকি margin padding এগুলোও মাঝে মাঝে কাজ করে না। যদি Inline Elements এ Width বা Height এর প্রয়োজন হয় বা Margin Padding দেয়ার দরকার হয়, তাহলে এই Inline Elements কে আমরা চাইলে Inline-block Elements তৈরি করতে পারি। `display: inline-block` এই property দিলে element টি inline-block element হয়ে যাবে এবং তখন width, height, margin, padding এগুলো কাজ করবে।
 
 ### Inline, Block and Inline-block Examples
 
-**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/XWqmBYy)**
+**&#9885; [Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/poxKjKE)**
 
 ## CSS Alignment of Elements, Texts and Images
 
-### How to Center A Block Element
+### How to Horizontally Center A Block Element
 
-- To horizontally center a block element (like `<div>`, `<h1>`, `<p>`), use `margin: auto`;
-- **Note:** Center aligning has no effect if the width property is not set (or set to 100%).
+There are several ways:
+**_Way-01: Using Margin Auto_**
+
+```css
+div {
+  margin: 0 auto;
+}
+```
+
+**_Way-02: Using Flexbox_**
+
+```css
+.parent-div {
+  display: flex;
+  justify-content: center;
+}
+.target-div {
+}
+```
+
+**_Way-03: Using Positioning and Transform_**
+
+```css
+div {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+```
+
+**_Way-04: Using Inline-block Concept_**
+
+```css
+.parent-div {
+  text-align: center;
+}
+.target-div {
+  display: inline-block;
+}
+```
+
+### How to Horizontally & Vertically Center A Block Element
+
+There are several ways:
+
+**_Way-01: Using Flexbox_**
+
+```css
+.parent-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.target-div {
+}
+```
+
+**_Way-02: Using CSS Grid_**
+
+```css
+.parent-div {
+  display: grid;
+  place-items: center;
+}
+.target-div {
+}
+```
+
+**_Way-03: Using Positioning and Transform_**
+
+```css
+div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+```
 
 ### How to Center Texts Inside An Element
 
@@ -672,23 +1212,29 @@ The following example shows the different behavior of `display: inline`, `displa
 
 ### How to Center an Image
 
-- To center an image, set left and right margin to `auto` and make it into a `block` element:
-
-### How to Align an Element - Using Position
-
-- One method for aligning elements is to use `position: absolute;`
-- **Note:** Absolute positioned elements are removed from the normal flow, and can overlap elements.
-- Another method for aligning elements is to use the `float` property.
+- To center an image, first make it a `block` element and then use `margin: 0 auto`
 
 ### CSS Alignment Examples
 
-**&#9885; [Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/BaxjQoG)**
+**&#9885; [How to Center A Block Element Horizontally Way-01](https://codepen.io/CodeJogot/pen/VwEdePJ)**
+
+**&#9885; [How to Center A Block Element Horizontally Way-02](https://codepen.io/CodeJogot/pen/BaqVjwQ)**
+
+**&#9885; [How to Center A Block Element Horizontally Way-03](https://codepen.io/CodeJogot/pen/VwEdeyZ)**
+
+**&#9885; [How to Center A Block Element Horizontally Way-04](https://codepen.io/CodeJogot/pen/BaqVjYp)**
+
+**&#9885; [How to Center A Block Element Horizontally & Vertically Way-01](https://codepen.io/CodeJogot/pen/vYVrLjO)**
+
+**&#9885; [How to Center A Block Element Horizontally & Vertically Way-02](https://codepen.io/CodeJogot/pen/QWZxyxO)**
+
+**&#9885; [How to Center A Block Element Horizontally & Vertically Way-03](https://codepen.io/CodeJogot/pen/RweJrBr)**
 
 <div align="right">
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
 </div>
 
-# chapter-13: CSS Flexbox
+# Chapter-13: CSS Flexbox
 
 - [CSS Flexbox](#css-flexbox)
   - [CSS Flexbox Layout Module](#css-flexbox-layout-module)
@@ -705,6 +1251,12 @@ The following example shows the different behavior of `display: inline`, `displa
 - [কিছু গুরুত্বপূর্ণ Flex Items Property](#কিছু-গুরুত্বপূর্ণ-flex-items-property)
 
 ## CSS Flexbox
+
+### What is Flexbox?
+
+Flexbox is a CSS box model to easily **layout**, **align** and **distribute** space among items within a **container** either horizontally or vertically.
+
+অর্থাৎ ফ্লেক্সবক্স হলো একটা CSS Box Model যে Horizontally বা Vertically কতোগুলো ITEMS গুলোকে Layout দেয়, Align করে এবং তাদের মধ্যে Space Distribute করে।
 
 ### CSS Flexbox Layout Module
 
@@ -729,7 +1281,7 @@ Before the Flexbox Layout module, there were four layout modes:
 
 এখানে Flex Container হলো Blue Area Element. এবং তিনটি Flex Items হলো 1, 2 এবং 3.
 
-Example: [Open in CodePen](https://codepen.io/travelerabdulalim/pen/xxjZLrx)
+Example: [Open in CodePen](https://codepen.io/CodeJogot/pen/WNaaXwJ)
 
 #### Tips
 
@@ -755,7 +1307,7 @@ Example: [Open in CodePen](https://codepen.io/travelerabdulalim/pen/xxjZLrx)
 
 ### Flex Direction Example
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/yLjepNq)
+[Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/XWxxzMv)
 
 ### Justify Content Property in Flex
 
@@ -773,7 +1325,7 @@ Example: [Open in CodePen](https://codepen.io/travelerabdulalim/pen/xxjZLrx)
 
 ### JUSTIFY CONTENT Property in Flex Example
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/abGNoMy)
+[Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/wvYYPem)
 
 ### ALIGN ITEMS Property in Flex
 
@@ -792,7 +1344,7 @@ The align-items property is used to align the flex items.
 
 ### ALIGN ITEMS Property in Flex Example
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/zYjqxdQ)
+[Open Live Project in CodePen](https://codepen.io/CodeJogot/pen/mdzzqBM)
 
 ### The CSS Flexbox Container Properties Summary
 
@@ -843,7 +1395,7 @@ The align-items property is used to align the flex items.
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
 </div>
 
-# chapter-14: CSS Selectors
+# Chapter-14: CSS Selectors
 
 - [CSS Selectors](#css-selectors)
   - [What is CSS Selectors](#what-is-css-selectors)
@@ -1225,9 +1777,8 @@ Example:
   </div>
   <article>
     <h2 id="article-01">Article-01</h2>
-    Hi there, I'm Abdul Alim from Sirajganj, Bangladesh. Farming 🌾 and
-    Travelling ✈️ are my passion and profession. I love to share my farming and
-    travel experience through my YouTube Channel.
+    Codejogot is an programming platform. It helps the students learn with fun.
+    Codejogot is an programming platform. It helps the students learn with fun.
   </article>
   <article>
     <h2 id="article-02">Article-02</h2>
@@ -1774,12 +2325,18 @@ Screenshot:
 
 ### 04. All CSS Pseudo Elements
 
+**Pseudo Element কি**
+
+Pseudo Element হলো একটা Keyword যেটা কোন একটা Selector এর Specific একটা অংশকে Style করে, নতুন কোন Element তৈরি করা ছাড়াই। অর্থাৎ আমরা যে Specific অংশকে Style করতে চাচ্ছি, ঐ অংশকে একটা Element এর মধ্যে নিয়ে Style করা যেত, তবে এক্ষেত্রে নতুন আরও একটি Element তৈরি করা লাগতো। Pseudo Element এর মাধ্যমে আমরা নতুন কোন Element তৈরি করা ছাড়াই ঐ Specific অংশকে ধরতে পারি এবং Style করতে পারি। যেমনঃ কোন একটা Paragraph এর প্রথম লাইন বা প্রথম Letter কে ধরতে আমরা Pseudo Element ব্যবহার করতে পারি।
+
+**Note:** ::before, ::after এগুলো সবই কিন্তু একেকটা Element. অর্থাৎ CSS এ Div, Span, Section এগুলো যেমন Element তেমনি ঐগুলাও (::before, ::after, ::first-letter) একেকটা Element. এবং by default এগুলো Inline Element.
+
 | **Selector No.** | **Selector Name** |   **Example**   |                   **Example Description**                    |
 | :--------------: | :---------------: | :-------------: | :----------------------------------------------------------: |
-|        01        |      ::after      |    p::after     |            Insert content after every <p> element            |
-|        02        |     ::before      |    p::before    |           Insert content before every <p> element            |
-|        03        |  ::first-letter   | p::first-letter |        Selects the first letter of every <p> element         |
-|        04        |   ::first-line    |  p::first-line  |         Selects the first line of every <p> element          |
+|        01        |      ::after      |    p::after     |              Insert content after `<p>` element              |
+|        02        |     ::before      |    p::before    |             Insert content before `<p>` element              |
+|        03        |  ::first-letter   | p::first-letter |          Selects the first letter of `<p>` element           |
+|        04        |   ::first-line    |  p::first-line  |           Selects the first line of `<p>` element            |
 |        05        |    ::selection    |  p::selection   | Selects the portion of an element that is selected by a user |
 
 #### Example
@@ -1879,16 +2436,16 @@ Note: This table has some type because of vs-code extensions, plz visit https://
   >
   <a href="http://google.com">Google</a>
   <img
-    src="/chapter-14-css-selectors/images/Abdul Alim.jpg"
-    title="Abdul Alim at Coxs Bazar"
-    alt="Abdul Alim"
+    src="/chapter-14-css-selectors/images/logo.png"
+    title="Codejogot Logo"
+    alt="CodeJogot"
     width="300px"
     height="300px"
   />
   <img
-    src="/chapter-14-css-selectors/images/abdul alim 4.jpg"
+    src="/chapter-14-css-selectors/images/fb-cover.png"
     title=" at Dhaka"
-    alt="New Abdul Alim"
+    alt="CodeJogot"
     width="300px"
     height="300px"
   />
@@ -1904,7 +2461,7 @@ a[target="_blank"] {
   background-color: aquamarine;
 }
 /* title text anywhere */
-img[title~="Alim"] {
+img[title~="Logo"] {
   border: 2px solid red;
 }
 /* start with*/
@@ -1912,7 +2469,7 @@ a[href^="http"] {
   font-size: 2rem;
 }
 /* end with */
-img[alt$="Alim"] {
+img[alt$="Jogot"] {
   border-radius: 50%;
 }
 /* substring */
@@ -1935,55 +2492,222 @@ a[href*="google"] {
 
 # Chapter-15: CSS Text, Fonts & Icons
 
-# Chapter-16: CSS Navigation Bar and Dropdowns
+- [CSS Text](#css-text)
+  - [Text Alignment & Text Direction Properties](#text-alignment--text-direction-properties)
+  - [Text Decoration](#text-decoration)
+  - [Text Tranformation](#text-tranformation)
+  - [Text Spacing](#text-spacing)
+  - [Text Shadow](#text-shadow)
+- [CSS Fonts](#css-fonts)
+  - [Font Family](#)
+  - [Font Style, Weight, Variant, Size]()
+- [CSS Icons](#css-icons)
+  - [How to Use Icons]()
+- [Assignments](#assignments)
+  - [Problem 01](#problem-01)
+  - [Problem 02](#problem-02)
 
-- [Introduction to CSS Navbar](#introduction-to-css-navbar)
-- [Simple Project to Create a Vertical Navbar](#simple-project-to-create-a-vertical-navbar)
-- [Simple Project to Create a Horizontal Navbar](#simple-project-to-create-a-horizontal-navbar)
-- [CSS Dropdowns Simple Project](#css-dropdowns-simple-project)
+## CSS Text
 
-## Introduction to CSS Navbar
+### Text Alignment & Text Direction Properties
 
-CSS Navigation Bar কিভাবে তৈরি করতে হয়, তা শিখার জন্য আমরা দুটি প্রোজেক্ট করবো। সেগুলো হলোঃ
+| **Property Name** | **Property Values**                                              | **Role/Task**                                                          | **Example**                                                                                                         |
+| ----------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| `text-align`      | left, right, center, justify                                     | কোন টেক্সটকে Horizontally Align করার জন্য এই Property ব্যবহার করা যায়। | `text-align: center`. কোন element এ যদি এই প্রপার্টি দেয়া হয়, তাহলে ঐ Element এর সমস্ত টেক্সট মাঝখানে চলে যাবে।     |
+| `text-align-last` | left, right, center, justify                                     | কোন Text এর লাস্ট লাইনকে Align করতে ব্যবহার করা হয়।                    | `text-align-last: right` এটা যদি কোন একটা P element কে দেয়া হয়, তাহলে ঐ P element এর লাস্ট লাইন ডান দিকে align হবে। |
+| `direction`       | ltr, rtl                                                         |                                                                        |                                                                                                                     |
+| `unicode-bidi`    | normal, embed, bidi-override                                     |                                                                        |                                                                                                                     |
+| `vertical-align`  | baseline, length, sub, super, top, text-top, middle, text-bottom | inline বা inline-block or table-cell box কে Vertically Align করে       |                                                                                                                     |
 
-- এক, আমরা খুব সাধারন একটা Vertical Navbar তৈরি করবো।
-- দুই, আমরা আরও একটা খুব সাধারন Horizontal Navbar তৈরি করবো।
+### Text Decoration
 
-## Simple Project to Create a Vertical Navbar
+### Text Tranformation
 
-এই প্রোজেক্ট এ বুঝার মতো যে কাজগুলো করা হয়েছে তা নিচে দেয়া হলোঃ
+### Text Spacing
 
-1. আমরা ul element এর css এ `list-style-type: none` লিখে লিস্ট এর যে Bullet Sign ছিলো তা সরিয়ে ফেলেছি।
-2. a element এর মধ্যে `display: block` এবং `width: 80px` দিয়েছি, এর ফলে যেটা হলো তা হলো, শুধু Text ই না, পুরো 80px width জুড়েই জায়গাটা Clickable হয়ে গেলো।
-3. যেহেতু আমাদের সবগুলো লিঙ্ক ul element এর মধ্যে আছে, তাই 2 no point এ আমরা যে কাজ করেছি, তা যদি আমরা a এর মধ্যে `width: 80px` না দিয়ে যদি ul element এর মধ্যে দেই, তাহলে Same কাজই করবে।
+### Text Shadow
 
-### Project Screenshot
+## CSS Fonts
 
-![vertical Navbar](./chapter-16-css-navigation-bar-and-dropdowns/images/1.png)
+### Font Family
 
-### Vertical Navbar Live Project
+### Font Style, Weight, Variant, Size
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/LYmjqYx)
+## CSS Icons
 
-## Simple Project to Create a Horizontal Navbar
+## Assignments
 
-### Project Screenshot
+### Problem-01
 
-![Horizontal Navbar](./chapter-16-css-navigation-bar-and-dropdowns/images/2.png)
+![Problem 01](./chapter-15-css-text-fonts-icons/assignments/problem-01/problem/problem-01.png)
 
-### Horizontal Navbar Live Project
+### Problem-02
 
-[Open Live Project in CodePen](https://codepen.io/travelerabdulalim/pen/eYrGdyx)
+![Problem 02](./chapter-15-css-text-fonts-icons/assignments/problem-02/problem/problem-02.png)
 
-## CSS Dropdowns Simple Project
+# Chapter-16: CSS Links, Lists, Tables, Display & Max-width
 
-### Project Screenshot
+- [CSS Links](#css-links)
+  - [Four States of Links](#four-states-of-links)
+  - [How To Create Link Boxes and Buttons](#how-to-create-link-boxesbuttons)
+  - [Different Types of Cursors on Links](#different-types-of-cursors-on-links)
+- [CSS Lists](#css-lists)
+  - [List Style Type Property](#list-style-type-property)
+  - [Image as An Marker](#image-as-an-marker)
+  - [Item Position](#item-position)
+  - [How to Remove Default Settings](#how-to-remove-default-settings)
+  - [List Style Shortand Property](#list-style-shortand-property)
+- [CSS Tables](#css-tables)
+- [CSS Display Propery](#css-display-propery)
+- [CSS Max-width](#css-max-width)
+- [Assignments on Chapter-16](#assignments-on-chapter-16)
+  - [Assignment 1](#assignment-1-for-chapter-16)
+  - [Assignment 2](#assignment-2-for-chapter-16)
 
-![dropdown](./chapter-16-css-navigation-bar-and-dropdowns/images/3.png)
+## CSS Links
 
-### Open Source Codes in CodePen
+- আমরা জানি লিংক তৈরি করতে হয় `<a>` ট্যাগ দিয়ে। HTML এ লিংক তৈরি করার সাথে সাথে By Default কিছু Styles Generate হয়। যেগুলা আমরা CSS দিয়ে Customize করতে পারি।
 
-[Open Source Codes in CodePen](https://codepen.io/travelerabdulalim/pen/qBYPqLV)
+### Four States of Links
+
+Link এর চারটা States আছে। যেগুলো আমরা চারটা Pseudo-class দিয়ে CSS থেকে ধরতে পারি।
+
+- `a:link` - a normal, unvisited link.
+- `a:visited` - a link the user has visited.
+- `a:hover` - a link when the user mouses over it.
+- `a:active` - a link the moment it is clicked.
+
+_Note: CSS এ Code লিখার সময় অবশ্যই link এবং visited Pseudo-class এর পর hover Pseudo-class দিতে হবে এবং active hover এর পর দিতে হবে।_
+
+#### Example:
+
+![links](./chapter-16/images/link.png)
+
+#### Source Codes:
+
+[Open in CodePen](https://codepen.io/CodeJogot/pen/XWyVZdP)
+
+### How To Create Link Boxes/Buttons
+
+```css
+a:link,
+a:visited {
+  background-color: white;
+  border: 2px solid black;
+  text-decoration: none;
+  color: black;
+  padding: 8px 24px;
+  text-align: center;
+  border-radius: 4px;
+}
+
+a:hover,
+a:active {
+  background-color: black;
+  color: white;
+}
+```
+
+Example:
+
+![link-box](./chapter-16/images/link-box.png)
+
+Source Codes:
+[Open in CodePen](https://codepen.io/CodeJogot/pen/ZEmvoQB)
+
+### Different Types of Cursors on Links
+
+Example:
+
+![different-cursors](./chapter-16/images/cursor.png)
+
+Source Codes: [Open in CodePen](https://codepen.io/CodeJogot/pen/OJazEjW)
+
+## CSS Lists
+
+- HTML এ দুই ধরনের লিস্ট আছে। Ordered List and Unordered List.
+- Ordered List Bullet দ্বারা মার্ক করা হয়।
+- Unordered List Number অথবা Letters দ্বারা মার্ক করা হয়।
+
+### List Style Type Property
+
+- `list-style-type` Property দিয়ে কোন একটা Marker কি Type এর সেটা বলে দেয়া যায়। যেমনঃ `list-style-type: circle`, `list-style-type: square`, `list-style-type: upper-roman`, `list-style-type: lower-alpha`.
+
+#### Example:
+
+![list-style-type](./chapter-16/images/list-item-style.png)
+
+#### Source Codes: [Open in CodePen](https://codepen.io/CodeJogot/pen/VwVyJjP)
+
+### Image as An Marker
+
+- আমরা চাইলে Marker হিসেবে Image বা Gradient-ও ব্যবহার করতে পারি।
+
+#### Example
+
+![image-as-an-marker](./chapter-16/images/image-as-an-marker.png)
+
+#### Source Codes: [Open in CodePen](https://codepen.io/CodeJogot/pen/VwVyJzb)
+
+### Item Position
+
+- `list-style-position` মার্কারের Position নির্ধারণ করে।
+- `list-style-position: outside` এর অর্থ হলো বুলেট বা মার্কার লিস্ট Items এর বাইরে থাকবে।
+- `list-style-position: inside` এর অর্থ হলো বুলেট বা মার্কার লিস্ট Items এর ভিতরে থাকবে।
+- বুলেট পয়েন্ট ভিতরে না বাইরে আছে, তা আমরা একটা Border অ্যাড করে খুব সহজেই বুঝতে পারি।
+
+#### Example
+
+![marker position](./chapter-16/images/inside-outside.png)
+
+#### Source Codes
+
+[Open in CodePen](https://codepen.io/CodeJogot/pen/MWzrMGg)
+
+### How to Remove Default Settings
+
+- আমরা যখনি একটা লিস্ট তৈরি করি, তখনই প্রত্যেকটা লিস্ট এর সাথে একটা করে বুলেট এবং কিছু Default Margin Padding অ্যাড হয়, আমরা চাইলে এই সেটিং Remove করতে পারি। সেক্ষেত্রে নিচের Code টা লিখলেই হয়ে যাবেঃ
+
+```css
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+```
+
+### List Style Shortand Property
+
+- `list-style` হলো `list-style-type`, `list-style-position` এবং `list-style-image` এর Shorthand Property.
+  যেমনঃ `list-style: square inside url('sqpurple.gif')`
+
+## CSS Tables
+
+- HTML এ `<table>`, `<th>`, `<tr>` এবং `<td>` Tags গুলো ব্যবহার করে টেবিল তৈরি করা হয়।
+
+### Example
+
+![table](./chapter-16/images/table.png)
+
+### Source Codes
+
+[Open in CodePen](https://codepen.io/CodeJogot/pen/ExOoqeQ)
+
+## CSS Display Propery
+
+- Layout Control করার জন্য CSS Display Property অনেক গুরুত্বপূর্ণ ভূমিকা পালন করে।
+
+## CSS Max-width
+
+## Assignments on Chapter-16
+
+### Assignment 1 for Chapter-16
+
+![Assignment 1](./chapter-16/images/assignment-1.png)
+
+### Assignment 2 for Chapter-16
+
+![Assignment 2](./chapter-16/images/assignment-02.png)
 
 <div align="right">
     <b><a href="#learn-html-and-css-in-60-chapters">↥ Go to Top</a></b>
